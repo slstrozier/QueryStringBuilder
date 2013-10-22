@@ -1,0 +1,19 @@
+NH","New highs refers to the number of stocks recording their highest price level in a specified period of time","1","Period Of Time
+
+NL","New lows refers to the number of stocks recording their lowest price level in a specified period of time","1","Period Of Time
+
+GU","Percentage of stocks making an up gap greater than specified margin. An up gap forms when a security opens above the previous period's high, remains above the previous high for the entire period and closes above it. Up gaps can form on daily, weekly or monthly charts and are generally considered bullish.","1","Percentage Margin
+
+GD","Percentage of stocks making a down gap greater than specified margin. A down gap forms when a security opens below the previous period's low, remains below the previous low for the entire period and closes below it. Down gaps can form on daily, weekly or monthly charts and are generally considered bearish.","1","Percentage Margin
+
+AEMA","Stocks Above Their [x]-day Moving Average: A market breadth indicator that represents the number of stocks in a given group that have closing prices that are currently above their [x]-day exponential moving average. Common techniques for using this indicator include locating overbought/oversold levels and finding positive or negative divergences between this indicator and the underlying group's composite index.","1","EMA Period
+
+BEMA","Stocks Below Their [x]-day Moving Average: A market breadth indicator that represents the number of stocks in a given group that have closing prices that are currently below their [x]-day exponential moving average. Common techniques for using this indicator include locating overbought/oversold levels and finding positive or negative divergences between this indicator and the underlying group's composite index.","1","EMA Period
+
+MAC","A breadth indicator derived from each day's net advances (the number of advancing issues less the number of declining issues). Similar to MACD, the McClellan Oscillator is a momentum indicator that is applied to the advance/decline statistics. As a momentum indicator, the McClellan Oscillator attempts to anticipate positive and negative changes in the AD statistics for market timing. Buy and sell signals are generated as well as overbought and oversold readings. Traders may also look for positive or negative divergences to time their trades.","0
+
+ADV","Percentage of Advancing Stocks Per Day","0
+
+DEC","Percentage of Declining Stocks Per Day","0
+
+TRIN","A momentum indicator showing the percent rate-of-change of a triple exponentially smoothed moving average. Like other oscillators, TRIX oscillates around a zero line. Its triple exponential smoothing makes it an excellent filter of market noise and it functions well as a leading indicator of market trends.","0

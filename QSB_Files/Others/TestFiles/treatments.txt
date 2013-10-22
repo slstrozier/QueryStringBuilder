@@ -1,0 +1,7 @@
+EMA","Exponential Moving Average","1","Number of days of EMA
+
+SMA","Simple Moving Average","1","Number of days of EMA
+
+MACD","MACD","1","Number of days of EMA
+
+SLP","Slope","1","Number of days to get average slope on

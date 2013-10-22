@@ -1,0 +1,19 @@
+sd","Top 200 biggest companies which is a good representation of the strongest market force
+
+bd","All stocks available
+
+snp500","Stocks included in Standard & Poors Index
+
+nasdaq","Stocks included in NASDAQ index
+
+stock","All stocks available
+
+commodity","Commodities
+
+index","Indices (NASDAQ, S&P500, etc.
+
+currency","Currencies
+
+bond","Bonds
+
+test","Whatever for testing purposes

@@ -1,0 +1,6689 @@
+A","Agilent Technologies Inc
+
+AA","Alcoa Inc
+
+AACC","Asset Acceptance Capital Corp.
+
+AAME","Atlantic American Corporation
+
+AAN","Aaron's
+
+AAON","AAON
+
+AAP","Advance Auto Parts Inc
+
+AAPL","Apple Inc.
+
+AAR","AMR Corporation
+
+AATI","Advanced Analogic Technologies
+
+AAV","Advantage Oil & Gas Ltd
+
+AAWW","Atlas Air Worldwide Holdings
+
+AAXJ","iShares MSCI All Country Asia ex Japan Index Fund
+
+AB","Alliance Capital Management Holding L.P.
+
+ABAT","Advanced Battery Technologies
+
+ABAX","ABAXIS
+
+ABBC","Abington Bancorp
+
+ABC","AmerisourceBergen Corp
+
+ABCB","Ameris Bancorp
+
+ABCD","Cambium Learning Group
+
+ABCO","The Advisory Board Company
+
+ABCW","Anchor BanCorp Wisconsin Inc.
+
+ABFS","Arkansas Best Corporation
+
+ABG","Asbury Automotive Group Inc
+
+ABH","AbitibiBowater Inc.
+
+ABIO","Arca Biopharma
+
+ABL","American Biltrite Inc.
+
+ABM","ABM Industries Incorporated
+
+ABMD","ABIOMED
+
+ABT","Abbott Laboratories
+
+ABTL","Autobytel Inc.
+
+ABVA","Alliance Bankshares Corporation
+
+ABVT","Abovenet Inc
+
+ABX","Barrick Gold Corporation
+
+ACAD","ACADIA Pharmaceuticals Inc.
+
+ACAS","American Capital
+
+ACAT","Arctic Cat Inc.
+
+ACCL","Accelrys
+
+ACE","ACE Limited
+
+ACET","Aceto Corporation
+
+ACFC","Atlantic Coast Federal Corporation
+
+ACFN","Acorn Energy
+
+ACHN","Achillion Pharmaceuticals
+
+ACI","Arch Coal
+
+ACIW","ACI Worldwide
+
+ACLS","Axcelis Technologies
+
+ACMR","A.C. Moore Arts & Crafts
+
+ACNB","ACNB Corporation
+
+ACO","Amcol International Corporation
+
+ACOR","Acorda Therapeutics
+
+ACPW","Active Power
+
+ACRX","AcelRx Pharmaceuticals
+
+ACTG","Acacia Research Corporation
+
+ACU","Acme United Corporation.
+
+ACUR","Acura Pharmaceuticals
+
+ACW","Accuride Corporation New
+
+ACWI","iShares MSCI ACWI Index Fund
+
+ACWX","iShares MSCI ACWI ex US Index Fund
+
+ACXM","Acxiom Corporation
+
+ACY","AeroCentury Corp.
+
+ADAT","Authentidate Holding Corp.
+
+ADBE","Adobe Systems Incorporated
+
+ADC","Agree Realty Corporation
+
+ADEP","Adept Technology
+
+ADES","ADA-ES
+
+ADGE","American DG Energy Inc.
+
+ADGF","Adams Golf
+
+ADI","Analog Devices Inc
+
+ADLR","Adolor Corporation
+
+ADM","Archer-Daniels-Midland Co
+
+ADP","Automatic Data Processing, Inc.
+
+ADPI","American Dental Partners
+
+ADRA","BLDRS Asia 50 ADR Index Fund
+
+ADRD","BLDRS Developed Markets 100 ADR Index Fund
+
+ADRE","BLDRS Emerging Markets 50 ADR Index Fund
+
+ADRU","BLDRS Europe 100 ADR Index Fund
+
+ADS","Alliance Data Systems Corporation
+
+ADSK","Autodesk, Inc.
+
+ADTN","ADTRAN
+
+ADUS","Addus HomeCare Corporation
+
+ADVS","Advent Software
+
+ADX","Adams Express Company (The)
+
+AE","Adams Resources & Energy
+
+AEC","Associated Estates Realty Corporation
+
+AEE","Ameren Corp
+
+AEGR","Aegerion Pharmaceuticals
+
+AEHR","Aehr Test Systems
+
+AEIS","Advanced Energy Industries
+
+AEL","American Equity Investment Life Holding Company
+
+AEM","Agnico-Eagle Mines Limited
+
+AEN","Adeona Pharmaceuticals
+
+AEO","American Eagle Outfitters
+
+AEP","American Electric Power
+
+AEPI","AEP Industries Inc.
+
+AERG","Applied Energetics
+
+AES","AES Corp
+
+AET","Aetna Inc
+
+AETI","American Electric Technologies
+
+AEY","ADDvantage Technologies Group
+
+AEZS","AEterna Zentaris
+
+AF","Astoria Financial Corporation
+
+AFAM","Almost Family Inc
+
+AFC","Allied Capital Corporation
+
+AFCB","Athens Bancshares Corporation
+
+AFCE","AFC Enterprises
+
+AFE","American Financial Group
+
+AFF","American International Group
+
+AFFM","Affirmative Insurance Holdings
+
+AFFX","Affymetrix
+
+AFFY","Affymax
+
+AFG","American Financial Group
+
+AFL","AFLAC Inc
+
+AFOP","Alliance Fiber Optic Products
+
+AFP","United Capital Corp.
+
+AFQ","American Financial Group
+
+AFSI","AmTrust Financial Services
+
+AG","First Majestic Silver Corp.
+
+AGCO","AGCO Corporation
+
+AGEN","Agenus Inc.
+
+AGL","AGL Resources
+
+AGM","Federal Agricultural Mortgage Corporation
+
+AGN","Allergan Inc
+
+AGNC","American Capital Agency Corp.
+
+AGP","AMERIGROUP Corporation
+
+AGU","Agrium Inc.
+
+AGX","Argan
+
+AGYS","Agilysys
+
+AHCI","Allied HealthCare International Inc.
+
+AHGP","Alliance Holdings GP
+
+AHPI","Allied Healthcare Products
+
+AHS","AMN Healthcare Services Inc
+
+AHT","Ashford Hospitality Trust Inc
+
+AI","Arlington Asset Investment Corp
+
+AIG","American Intl Group Inc
+
+AIM","Aerosonic Corporation
+
+AIMC","Altra Holdings
+
+AIN","Albany International Corporation
+
+AINV","Apollo Investment Corporation
+
+AIQ","Alliance HealthCare Services
+
+AIR","AAR Corp.
+
+AIRM","Air Methods Corporation
+
+AIRT","Air T
+
+AIS","Antares Pharma
+
+AIT","Applied Industrial Technologies
+
+AIV","Apartment Investment & Mgmt
+
+AIZ","Assurant Inc
+
+AJG","Arthur J. Gallagher & Co.
+
+AKAM","Akamai Technologies, Inc.
+
+AKR","Acadia Realty Trust
+
+AKRX","Akorn
+
+AKS","AK Steel Hldg Corp
+
+ALAN","Alanco Technologies Inc.
+
+ALB","Albemarle Corporation
+
+ALC","Assisted Living Concepts
+
+ALCO","Alico
+
+ALE","Allete
+
+ALEX","Alexander & Baldwin
+
+ALG","Alamo Group
+
+ALGN","Align Technology
+
+ALGT","Allegiant Travel Company
+
+ALIM","Alimera Sciences
+
+ALK","Alaska Air Group
+
+ALKS","Alkermes
+
+ALL","Allstate Corp
+
+ALLB","Alliance Bancorp
+
+ALM","Alabama Power Company
+
+ALNC","Alliance Financial Corporation
+
+ALNY","Alnylam Pharmaceuticals
+
+ALOG","Analogic Corporation
+
+ALOT","Astro-Med
+
+ALR","Alere Inc.
+
+ALRN","American Learning Corporation
+
+ALSK","Alaska Communications Systems Group
+
+ALTH","Allos Therapeutics
+
+ALTI","Altair Nanotechnologies Inc.
+
+ALTR","Altera Corporation
+
+ALX","Alexander's
+
+ALXA","Alexza Pharmaceuticals
+
+ALXN","Alexion Pharmaceuticals, Inc.
+
+AM","American Greetings Corporation
+
+AMAC","American Medical Alert Corp.
+
+AMAG","AMAG Pharmaceuticals
+
+AMAT","Applied Materials, Inc.
+
+AMCC","Applied Micro Circuits Corporation
+
+AMD","Advanced Micro Devices
+
+AME","AMTEK
+
+AMED","Amedisys Inc
+
+AMG","Affiliated Managers Group
+
+AMGN","Amgen Inc.
+
+AMIC","American Independence Corp.
+
+AMKR","Amkor Technology
+
+AMLN","Amylin Pharmaceuticals
+
+AMMD","American Medical Systems Holdings
+
+AMN","Ameron International Corporation
+
+AMNB","American National Bankshares
+
+AMOT","Allied Motion Technologies
+
+AMOV","America Movil
+
+AMP","Ameriprise Financial
+
+AMPE","Ampio Pharmaceuticals
+
+AMPL","Ampal-American Israel Corporation
+
+AMR","AMR Corporation
+
+AMRB","American River Bankshares
+
+AMRI","Albany Molecular Research
+
+AMRS","Amyris
+
+AMS","American Shared Hospital Services
+
+AMSC","American Superconductor Corporation
+
+AMSF","AMERISAFE
+
+AMSG","Amsurg Corp.
+
+AMSWA","American Software
+
+AMT","American Tower Corp A
+
+AMTC","Ameritrans Capital Corporation
+
+AMTCP","Ameritrans Capital Corporation
+
+AMTD","TD Ameritrade Holding Corporation
+
+AMWD","American Woodmark Corporation
+
+AMX","America Movil
+
+AMZN","Amazon.com, Inc.
+
+AN","AutoNation Inc
+
+ANAC","Anacor Pharmaceuticals
+
+ANAD","ANADIGICS
+
+ANAT","American National Insurance Company
+
+ANCB","Anchor Bancorp
+
+ANCI","American Caresource Holdings Inc
+
+ANCX","Access National Corporation
+
+ANDE","The Andersons
+
+ANDS","Anadys Pharmaceuticals
+
+ANEN","Anaren
+
+ANF","Abercrombie & Fitch Company A
+
+ANGN","Angeion Corporation
+
+ANGO","AngioDynamics
+
+ANH","Anworth Mortgage Asset  Corporation
+
+ANIK","Anika Therapeutics Inc.
+
+ANLY","Analysts International Corporation
+
+ANN","ANN INC.
+
+ANNB","Annapolis Bancorp Inc.
+
+ANO","Anooraq Resources Corporation
+
+ANR","Alpha Natural Resources
+
+ANSS","ANSYS
+
+ANTH","Anthera Pharmaceuticals
+
+ANTP","PHAZAR CORP
+
+ANV","Allied Nevada Gold Corp
+
+ANX","ADVENTRX Pharmaceuticals
+
+AOI","Alliance One International
+
+AON","Aon Corporation
+
+AONE","A123 Systems
+
+AOS","Smith (A.O.) Corporation
+
+AOSL","Alpha and Omega Semiconductor Limited
+
+AP","Ampco-Pittsburgh Corporation
+
+APA","Apache Corporation
+
+APAC","APAC Customer Services
+
+APAGF","Apco Oil and Gas International Inc.
+
+APB","Asia Pacific Fund
+
+APC","Anadarko Petroleum Corp
+
+APD","Air Products & Chemicals Inc
+
+APEI","American Public Education
+
+APF","Morgan Stanley Asia-Pacific Fund
+
+APFC","American Pacific Corporation
+
+APH","Amphenol Corp A
+
+API","Advanced Photonix
+
+APKT","Acme Packet
+
+APL","Atlas Pipeline Partners
+
+APOG","Apogee Enterprises
+
+APOL","Apollo Group, Inc.
+
+APPY","AspenBio Pharma
+
+APRI","Apricus Biosciences
+
+APT","Alpha Pro Tech
+
+APU","AmeriGas Partners
+
+AQQ","American Spectrum Realty
+
+ARAY","Accuray Incorporated
+
+ARB","Arbitron Inc.
+
+ARBA","Ariba
+
+ARC","American Reprographics Company
+
+ARCC","Ares Capital Corporation
+
+ARCI","Appliance Recycling Centers of America
+
+ARCL","Archipelago Learning
+
+ARCW","Arc Wireless Solutions
+
+ARDNA","Arden Group
+
+ARE","Alexandria Real Estate Equities
+
+AREX","Approach Resources Inc.
+
+ARG","Airgas Inc
+
+ARGN","Amerigon Incorporated
+
+ARIA","ARIAD Pharmaceuticals
+
+ARII","American Railcar Industries
+
+ARJ","Arch Chemicals
+
+ARK","Senior High Income Portfolio
+
+ARKR","Ark Restaurants Corp.
+
+ARL","American Realty Investors
+
+ARLP","Alliance Resource Partners
+
+ARNA","Arena Pharmaceuticals
+
+ARO","Aeropostale Inc
+
+AROW","Arrow Financial Corporation
+
+ARQL","ArQule
+
+ARR","Armour Residential R
+
+ARRS","Arris Group Inc
+
+ARRY","Array BioPharma Inc.
+
+ARSD","Arabian American Development Company
+
+ARTC","ArthroCare Corporation
+
+ARTNA","Artesian Resources Corporation
+
+ARTW","Art's-Way Manufacturing Co.
+
+ARTX","Arotech Corporation
+
+ARUN","Aruba Networks
+
+ARW","Arrow Electronics
+
+ARWR","Arrowhead Research Corporation
+
+ARY","Ares Capital Corporation
+
+ASBC","Associated Banc-Corp
+
+ASBI","Ameriana Bancorp
+
+ASCA","Ameristar Casinos
+
+ASCMA","Ascent Media Corporation
+
+ASEI","American Science and Engineering
+
+ASFI","Asta Funding
+
+ASG","Liberty All-Star Growth Fund
+
+ASGN","On Assignment
+
+ASH","Ashland Inc.
+
+ASNA","Ascena Retail Group
+
+ASP","American Strategic Income Portfolio
+
+ASPS","Altisource Portfolio Solutions S.A.
+
+ASR","Grupo Aeroportuario del Sureste
+
+ASRV","AmeriServ Financial Inc.
+
+ASRVP","AmeriServ Financial Inc.
+
+ASTC","Astrotech Corporation
+
+ASTE","Astec Industries
+
+ASTI","Ascent Solar Technologies
+
+ASTIZ","Ascent Solar Technologies
+
+ASTM","Aastrom Biosciences
+
+ASUR","Asure Software Inc
+
+ASYS","Amtech Systems
+
+ATAX","America First Tax Exempt Investors
+
+ATC","Cycle Country Accessories Corporation
+
+ATEA","Astea International
+
+ATEC","Alphatec Holdings
+
+ATHN","athenahealth
+
+ATHX","Athersys
+
+ATI","Allegheny Technologies Inc
+
+ATK","Alliant Techsystems Inc.
+
+ATLO","Ames National Corporation
+
+ATLS","Atlas Energy
+
+ATMI","ATMI Inc.
+
+ATML","Atmel Corporation
+
+ATNI","Atlantic Tele-Network
+
+ATO","Atmos Energy Corporation
+
+ATPG","ATP Oil & Gas Corporation
+
+ATR","AptarGroup
+
+ATRC","AtriCure
+
+ATRI","ATRION Corporation
+
+ATRM","Aetrium Incorporated
+
+ATRN","Atrinsic
+
+ATRO","Astronics Corporation
+
+ATSC","ATS Corporation
+
+ATSG","Air Transport Services Group
+
+ATT","AT&T Inc.
+
+ATU","Actuant Corporation
+
+ATVI","Activision Blizzard, Inc
+
+ATW","Atwood Oceanics
+
+ATX","Cross (A.T.) Company
+
+AUBN","Auburn National Bancorporation
+
+AUTH","AuthenTec
+
+AUXL","Auxilium Pharmaceuticals
+
+AUY","Yamana Gold
+
+AVA","Avista Corporation
+
+AVAV","AeroVironment
+
+AVB","AvalonBay Communities Inc
+
+AVCA","Advocat
+
+AVD","American Vanguard Corporation
+
+AVEO","AVEO Pharmaceuticals
+
+AVF","American International Group
+
+AVID","Avid Technology
+
+AVII","AVI BioPharma
+
+AVL","Avalon Rare Metals
+
+AVNR","Avanir Pharmaceuticals
+
+AVNW","Aviat Networks
+
+AVP","Avon Products
+
+AVT","Avnet
+
+AVTR","Avatar Holdings Inc.
+
+AVX","AVX Corporation
+
+AVY","Avery Dennison Corp
+
+AWF","Alliance World Dollar Government Fund II
+
+AWK","American Water Works
+
+AWP","Alpine Global Premier Properties Fund
+
+AWR","American States Water Company
+
+AWRE","Aware
+
+AWX","Avalon Holdings Corporation
+
+AXAS","Abraxas Petroleum Corporation
+
+AXE","Anixter International Inc.
+
+AXFN","iShares MSCI ACWI ex US Financials Sector Index Fund
+
+AXK","Accelr8 Technology Corporation
+
+AXL","American Axle & Manufacturing Holdings
+
+AXN","China Aoxing Pharmaceutical Company
+
+AXP","American Express Co
+
+AXR","AMREP Corporation
+
+AXTI","AXT Inc
+
+AYI","Acuity Brands Inc
+
+AYN","Alliance New York Municipal Income Fund Inc
+
+AZK","Aurizon Mines
+
+AZO","AutoZone Inc
+
+AZPN","Aspen Technology
+
+AZZ","AZZ Incorporated
+
+B","Barnes Group
+
+BA","Boeing Company
+
+BABY","Natus Medical Incorporated
+
+BAC","Bank of America Corp
+
+BAF","BlackRock Income Investment Quality Trust
+
+BAGL","Einstein Noah Restaurant Group
+
+BAM","Brookfield Asset Management Inc
+
+BAMM","Books-A-Million
+
+BANF","BancFirst Corporation
+
+BANFP","BancFirst Corporation
+
+BANRD","Banner Corporation
+
+BARI","Bancorp Rhode Island
+
+BASI","Bioanalytical Systems
+
+BAX","Baxter International Inc.
+
+BBBB","Blackboard Inc.
+
+BBBY","Bed Bath & Beyond Inc.
+
+BBEP","BreitBurn Energy Partners
+
+BBF","BlackRock Municipal Income Investment Trust
+
+BBGI","Beasley Broadcast Group
+
+BBK","Blackrock Municipal Bond Trust
+
+BBND","BigBand Networks
+
+BBNK","Bridge Capital Holdings
+
+BBOX","Black Box Corporation
+
+BBSI","Barrett Business Services
+
+BBT","BB&T Corporation
+
+BBX","BankAtlantic Bancorp
+
+BBXT","BankAtlantic Bancorp
+
+BBY","Best Buy Co. Inc.
+
+BC","Brunswick Corporation
+
+BCAR","Bank of the Carolinas Corporation
+
+BCBP","BCB Bancorp
+
+BCE","BCE
+
+BCO","Brink's Company (The)
+
+BCON","Beacon Power Corporation
+
+BCPC","Balchem Corporation
+
+BCR","Bard (C.R.) Inc.
+
+BCRX","BioCryst Pharmaceuticals
+
+BCSB","BCSB Bancorp
+
+BCSI","Blue Coat Systems Inc
+
+BCV","Bancroft Convertible Fund
+
+BCX","BlackRock Resources
+
+BDC","Belden Inc
+
+BDE","Black Diamond
+
+BDF","Rivus Bond Fund
+
+BDGE","Bridge Bancorp
+
+BDL","Flanigan's Enterprises
+
+BDMS","Birner Dental Management Services
+
+BDN","Brandywine Realty Trust
+
+BDR","Blonder Tongue Laboratories
+
+BDSI","BioDelivery Sciences International
+
+BDV","Blackrock Equity Dividend Trust
+
+BDX","Becton Dickinson
+
+BEAT","CardioNet
+
+BEAV","BE Aerospace
+
+BEBE","bebe stores
+
+BEC","Beckman Coulter
+
+BECN","Beacon Roofing Supply
+
+BELFA","Bel Fuse Inc.
+
+BELFB","Bel Fuse Inc.
+
+BEN","Franklin Resources
+
+BERK","Berkshire Bancorp
+
+BEXP","Brigham Exploration Company
+
+BFED","Beacon Federal Bancorp
+
+BFIN","BankFinancial Corporation
+
+BFK","BlackRock Municipal Income Trust
+
+BFLY","Bluefly
+
+BFO","Blackrock Florida Municipal 2020 Term Trust
+
+BFS","Saul Centers
+
+BFSB","Brooklyn Federal Bancorp
+
+BFY","BlackRock New York Municipal Income Trust II
+
+BFZ","BlackRock California Municipal Income Trust
+
+BG","Bunge Limited
+
+BGC","General Cable Corporation
+
+BGCP","BGC Partners
+
+BGFV","Big 5 Sporting Goods Corporation
+
+BGG","Briggs & Stratton Corporation
+
+BH","Biglari Holdings Inc.
+
+BHB","Bar Harbor Bankshares
+
+BHD","Blackrock Strategic Bond Trust
+
+BHE","Benchmark Electronics
+
+BHI","Baker Hughes Inc
+
+BHK","Blackrock Core Bond Trust
+
+BHLB","Berkshire Hills Bancorp
+
+BHV","BlackRock Virginia Municipal Bond Trust
+
+BHY","Blackrock High Yield Trust (The)
+
+BIB","ProShares Trust ProShares Ultra Nasdaq Biotechnology
+
+BICK","First Trust Exchange-Traded Fund II First Trust BICK Index Fun
+
+BID","Sotheby's
+
+BIDU","Baidu, Inc.
+
+BIDZ","Bidz.com
+
+BIE","Blackrock Municipal Bond Investment Trust
+
+BIF","USLIFE Income Fund
+
+BIG","Big Lots Inc.
+
+BIIB","Biogen Idec Inc
+
+BIN","Progressive Waste Solutions Ltd.
+
+BIO","Bio-Rad Laboratories
+
+BIOC","BioClinica
+
+BIOD","Biodel Inc.
+
+BIOF","BioFuel Energy Corp.
+
+BIOS","BioScrip
+
+BIRT","Actuate Corporation
+
+BIS","ProShares Trust ProShares UltraShort Nasdaq Biotechnology
+
+BITS","Bitstream Inc.
+
+BJ","BJ's Wholesale Club
+
+BJRI","BJ's Restaurants
+
+BJZ","Blackrock California Municipal 2018 Term Trust
+
+BK","The Bank of New York Mellon Corp.
+
+BKBK","Britton & Koontz Capital Corporation
+
+BKCC","BlackRock Kelso Capital Corporation
+
+BKE","Buckle
+
+BKEP","Blueknight Energy Partners L.P.
+
+BKH","Black Hills Corporation
+
+BKI","Buckeye Technologies
+
+BKK","Blackrock Municipal 2020 Term Trust
+
+BKMU","Bank Mutual Corporation
+
+BKN","BlackRock Investment Quality Municipal Trust Inc. (The)
+
+BKOR","Oak Ridge Financial Services
+
+BKR","Baker (Michael) Corporation
+
+BKS","Barnes & Noble
+
+BKSC","Bank of South Carolina Corp.
+
+BKT","BlackRock Income Trust Inc. (The)
+
+BKYF","The Bank of Kentucky Financial Corp.
+
+BLC","Belo Corporation
+
+BLD","Baldwin Technology Company
+
+BLDP","Ballard Power Systems
+
+BLDR","Builders FirstSource
+
+BLE","BlackRock Municipal Income Trust II
+
+BLH","Blackrock New York Municipal 2018 Term Trust
+
+BLJ","Blackrock New Jersey Municipal Bond Trust
+
+BLK","Blackrock
+
+BLKB","Blackbaud
+
+BLL","Ball Corp
+
+BLT","Blount International
+
+BLTI","BioLase Technology
+
+BLUD","Immucor
+
+BLW","Citigroup Inc.
+
+BMC","BMC Software, Inc.
+
+BMI","Badger Meter
+
+BMO","Bank Of Montreal
+
+BMRC","Bank of Marin Bancorp
+
+BMRN","BioMarin Pharmaceutical Inc.
+
+BMS","Bemis Company
+
+BMTC","Bryn Mawr Bank Corporation
+
+BMTI","BioMimetic Therapeutics
+
+BMY","Bristol-Myers Squibb
+
+BNA","BlackRock Income Opportunity Trust Inc. (The)
+
+BNCL","Beneficial Mutual Bancorp
+
+BNCN","BNC Bancorp
+
+BNHN","Benihana Inc.
+
+BNHNA","Benihana Inc.
+
+BNJ","BlackRock New Jersey Municipal Income Trust
+
+BNVI","Bionovo
+
+BNX","Banks.com
+
+BNY","BlackRock New York Investment Quality Municipal Trust Inc. (Th
+
+BOBE","Bob Evans Farms
+
+BOCH","Bank of Commerce Holdings (CA)
+
+BODY","Body Central Corp.
+
+BOFI","BofI Holding
+
+BOH","Bank of Hawaii Corporation
+
+BOKF","BOK Financial Corporation
+
+BOLT","Bolt Technology Corporation
+
+BONE","Bacterin International Holdings
+
+BONT","The Bon-Ton Stores
+
+BOOM","Dynamic Materials Corporation
+
+BOOT","LaCrosse Footwear
+
+BOVA","Bank Of Virginia
+
+BPAX","Biosante Pharmaceuticals
+
+BPFH","Boston Private Financial Holdings
+
+BPK","Blackrock Municipal 2018 Term Trust
+
+BPL","Buckeye Partners L.P.
+
+BPO","Brookfield Office Properties Inc.
+
+BPOP","Popular
+
+BPOPM","Popular
+
+BPOPN","Popular
+
+BPS","BlackRock Pennsylvania Strategic Municipal Trust (The)
+
+BPT","BP Prudhoe Bay Royalty Trust
+
+BPZ","BPZ Resources
+
+BQH","Blackrock New York Municipal Bond Trust
+
+BQI","Oilsands Quest Inc
+
+BR","Broadridge Financial Solutions
+
+BRC","Brady Corporation
+
+BRCD","Brocade Communications Systems
+
+BRCM","Broadcom Corporation
+
+BRD","Apollo Gold Corporation
+
+BRE","BRE Properties
+
+BRID","Bridgford Foods Corporation
+
+BRKL","Brookline Bancorp
+
+BRKR","Bruker Corporation
+
+BRKS","Brooks Automation
+
+BRLI","Bio-Reference Laboratories
+
+BRN","Barnwell Industries
+
+BRO","Brown & Brown
+
+BRS","Bristow Group Inc
+
+BRT","BRT Realty Trust
+
+BRY","Berry Petroleum Company
+
+BSD","BlackRock Strategic Municipal Trust Inc. (The)
+
+BSDM","BSD Medical Corporation
+
+BSE","Blackrock New York Municipal Income Quality Trust
+
+BSET","Bassett Furniture Industries
+
+BSFT","BroadSoft
+
+BSP","American Strategic Income Portfolio II
+
+BSQR","BSQUARE Corporation
+
+BSRR","Sierra Bancorp
+
+BSTC","BioSpecifics Technologies Corp
+
+BSX","Boston Scientific
+
+BTC","Community Bankers Trust Corporation.
+
+BTE","Baytex Energy Corp
+
+BTF","Boulder Total Return Fund
+
+BTFG","BancTrust Financial Group
+
+BTH","Blyth
+
+BTN","Ballantyne Strong
+
+BTO","John Hancock Bank and Thrift Fund
+
+BTU","Peabody Energy
+
+BTUI","BTU International
+
+BTX","BioTime
+
+BUCY","Bucyrus International
+
+BUSE","First Busey Corporation
+
+BVSN","BroadVision
+
+BVX","Bovie Medical Corporation
+
+BWA","BorgWarner Inc.
+
+BWEN","Broadwind Energy
+
+BWINA","Baldwin & Lyons
+
+BWINB","Baldwin & Lyons
+
+BWLD","Buffalo Wild Wings
+
+BWP","Boardwalk Pipeline Partners L.P.
+
+BWS","Brown Shoe Company
+
+BX","The Blackstone Group L.P.
+
+BXG","Bluegreen Corporation
+
+BXP","Boston Properties
+
+BXS","BancorpSouth
+
+BYD","Boyd Gaming Corporation
+
+BYFC","Broadway Financial Corporation
+
+BYI","Bally Technologies
+
+BYM","Blackrock Municipal Income Quality Trust
+
+BZC","Breeze-Eastern Corporation
+
+BZH","Beazer Homes USA
+
+BZM","BlackRock Maryland Municipal Bond Trust
+
+BZMD","Beazer Homes USA
+
+BZU","Beazer Homes USA
+
+C","Citigroup Inc.
+
+CA","CA Inc.
+
+CAC","Camden National Corporation
+
+CACB","Cascade Bancorp
+
+CACC","Credit Acceptance Corporation
+
+CACH","Cache
+
+CACI","CACI International
+
+CADX","Cadence Pharmaceuticals
+
+CAFI","Camco Financial Corporation
+
+CAG","ConAgra Foods Inc.
+
+CAH","Cardinal Health Inc.
+
+CAK","CAMAC Energy Inc.
+
+CAKE","The Cheesecake Factory Incorporated
+
+CALD","Callidus Software
+
+CALM","Cal-Maine Foods
+
+CALP","Caliper Life Sciences Inc
+
+CAM","Cameron International Corp.
+
+CAMP","CalAmp Corp.
+
+CAPS","Capstone Therapeutics Corp
+
+CART","Carolina Trust Bank
+
+CARV","Carver Bancorp
+
+CARZ","First Trust Exchange-Traded Fund II First Trust NASDAQ Global 
+
+CAS","Castle (A.M.) & Co.
+
+CASB","Cascade Financial Corp.
+
+CASC","Cascade Corporation
+
+CASH","Meta Financial Group
+
+CASM","CAS Medical Systems
+
+CASS","Cass Information Systems
+
+CASY","Caseys General Stores
+
+CAT","Caterpillar Inc.
+
+CATM","Cardtronics
+
+CATO","Cato Corporation (The)
+
+CATY","Cathay General Bancorp
+
+CAVM","Cavium Networks
+
+CAVO","Cavico Corp.
+
+CAW","CCA Industries
+
+CB","Chubb Corp.
+
+CBAN","Colony Bankcorp
+
+CBB","Cincinnati Bell Inc
+
+CBE","Cooper Industries
+
+CBEY","Cbeyond
+
+CBG","CB Richard Ellis Group
+
+CBIN","Community Bank Shares of Indiana
+
+CBK","Christopher & Banks Corporation
+
+CBKN","Capital Bank Corporation
+
+CBL","CBL & Associates Properties
+
+CBLI","Cleveland BioLabs
+
+CBM","Cambrex Corporation
+
+CBMX","CombiMatrix Corporation
+
+CBNJ","Cape Bancorp
+
+CBNK","Chicopee Bancorp
+
+CBOE","CBOE Holdings
+
+CBOU","Caribou Coffee Company
+
+CBR","Ciber
+
+CBRL","Cracker Barrel Old Country Store
+
+CBRX","Columbia Laboratories
+
+CBS","CBS Corp.
+
+CBSH","Commerce Bancshares
+
+CBST","Cubist Pharmaceuticals
+
+CBT","Cabot Corporation
+
+CBU","Community Bank System
+
+CBZ","CBIZ
+
+CCA","MFS California Insured Municipal Trust
+
+CCBG","Capital City Bank Group
+
+CCC","Calgon Carbon Corporation
+
+CCE","Coca-Cola Enterprises
+
+CCF","Chase Corporation
+
+CCI","Crown Castle International Corporation
+
+CCIX","Coleman Cable
+
+CCJ","Cameco Corporation
+
+CCK","Crown Cork & Seal Company
+
+CCL","Carnival Corp.
+
+CCMP","Cabot Microelectronics Corporation
+
+CCNE","CNB Financial Corporation
+
+CCOI","Cogent Communications Group
+
+CCRN","Cross Country Healthcare
+
+CCRT","CompuCredit Holdings Corporation
+
+CCS","Comcast Corporation
+
+CCT","Comcast Corporation
+
+CCUR","Concurrent Computer Corporation
+
+CCW","Comcast Corporation
+
+CCZ","Comcast Corporation
+
+CDE","Coeur d'Alene Mines Corporation
+
+CDI","CDI Corporation
+
+CDII","China Direct Industries
+
+CDNS","Cadence Design Systems
+
+CDR","Cedar Shopping Centers Inc
+
+CDTI","Clean Diesel Technologies
+
+CDXS","Codexis
+
+CDZI","Cadiz
+
+CEBK","Central Bancorp
+
+CEC","CEC Entertainment
+
+CECE","CECO Environmental Corp.
+
+CECO","Career Education Corporation
+
+CEDC","Central European Distribution Corporation
+
+CEE","Central Europe and Russia Fund
+
+CEF","Central Fund of Canada Limited
+
+CEG","Constellation Energy Group
+
+CELG","Celgene Corporation
+
+CELL","Brightpoint
+
+CENT","Central Garden & Pet Company
+
+CENTA","Central Garden & Pet Company
+
+CENX","Century Aluminum Company
+
+CEPH","Cephalon, Inc.
+
+CERN","Cerner Corporation
+
+CERP","Cereplast
+
+CERS","Cerus Corporation
+
+CET","Central Securities Corporation
+
+CEV","Eaton Vance California Municipal Income Trust
+
+CEVA","CEVA
+
+CF","CF Industries Holdings Inc
+
+CFBK","Central Federal Corporation
+
+CFFC","Community Financial Corp.
+
+CFFI","C&F Financial Corporation
+
+CFFN","Capitol Federal Financial
+
+CFI","Culp
+
+CFK","CE Franklin Ltd.
+
+CFN","Carefusion
+
+CFNB","California First National Bancorp
+
+CFNL","Cardinal Financial Corporation
+
+CFR","Cullen/Frost Bankers
+
+CFW","Cano Petroleum
+
+CGI","Celadon Group
+
+CGNX","Cognex Corporation
+
+CGX","Consolidated Graphics
+
+CH","Aberdeen Chile Fund
+
+CHCI","Comstock Homebuilding Companies
+
+CHCO","City Holding Company
+
+CHD","Church & Dwight Company
+
+CHDN","Churchill Downs
+
+CHDX","Chindex International
+
+CHE","Chemed Corp.
+
+CHEV","Cheviot Financial Corp
+
+CHFC","Chemical Financial Corporation
+
+CHG","CH Energy Group
+
+CHH","Choice Hotels International
+
+CHI","Calamos Convertible Opportunities and Income Fund
+
+CHK","Chesapeake Energy
+
+CHKE","Cherokee Inc.
+
+CHKP","Check Point Software Technologies Ltd.
+
+CHMP","Champion Industries
+
+CHMT","Chemtura Corp.
+
+CHN","China Fund
+
+CHRS","Charming Shoppes
+
+CHRW","C.H. Robinson Worldwide, Inc.
+
+CHS","Chico's FAS
+
+CHSCP","CHS Inc
+
+CHSI","Catalyst Health Solutions
+
+CHSP","Chesapeake Lodging Trust
+
+CHTP","Chelsea Therapeutics International
+
+CHTR","Charter Communications
+
+CHUX","O'Charley's Inc.
+
+CHY","Calamos Convertible and High Income Fund
+
+CHYR","Chyron Corporation
+
+CI","CIGNA Corp.
+
+CIA","Citizens
+
+CIDM","Cinedigm Digital Cinema Corp
+
+CIEN","CIENA Corporation
+
+CIF","Colonial Intermediate High Income Fund
+
+CIGX","Star Scientific
+
+CIK","Credit Suisse Asset Management Income Fund
+
+CINF","Cincinnati Financial
+
+CIR","CIRCOR International
+
+CIT","CIT Group Inc (DEL)
+
+CITZ","CFS Bancorp
+
+CIX","CompX International Inc.
+
+CIZN","Citizens Holding Company
+
+CKEC","Carmike Cinemas
+
+CKH","SEACOR Holdings
+
+CKP","Checkpoint Systms
+
+CKX","CKX Lands
+
+CKXE","CKX
+
+CL","Colgate-Palmolive
+
+CLBH","Carolina Bank Holdings Inc.
+
+CLC","CLARCOR Inc.
+
+CLCT","Collectors Universe
+
+CLDX","Celldex Therapeutics
+
+CLF","Cliffs Natural Resources
+
+CLFC","Center Financial Corporation
+
+CLFD","Clearfield
+
+CLH","Clean Harbors
+
+CLI","Mack-Cali Realty Corporation
+
+CLM","Cornerstone Strategic Value Fund
+
+CLMS","Calamos Asset Management
+
+CLMT","Calumet Specialty Products Partners
+
+CLNE","Clean Energy Fuels Corp.
+
+CLP","Colonial Properties Trust
+
+CLRO","ClearOne Communications Inc.
+
+CLS","Celestica
+
+CLSN","Celsion Corporation
+
+CLUB","Town Sports International Holdings
+
+CLWR","Clearwire Corporation
+
+CLX","Clorox Co.
+
+CM","Canadian Imperial Bank of Commerce
+
+CMA","Comerica Inc.
+
+CMC","Commercial Metals Company
+
+CMCO","Columbus McKinnon Corporation
+
+CMCSA","Comcast Corporation
+
+CMCSK","Comcast Corporation
+
+CME","CME Group Inc.
+
+CMFB","COMMERCEFIRST BANCORP INC
+
+CMG","Chipotle Mexican Grill
+
+CMI","Cummins Inc.
+
+CMK","Colonial Intermarket Income Trust I
+
+CMLP","Crestwood Midstream Partners LP
+
+CMLS","Cumulus Media Inc.
+
+CMN","Cantel Medical Corp.
+
+CMO","Capstead Mortgage Corporation
+
+CMP","Compass Minerals Intl Inc
+
+CMRG","Casual Male Retail Group
+
+CMS","CMS Energy
+
+CMSB","CMS Bancorp
+
+CMT","Core Molding Technologies Inc
+
+CMTL","Comtech Telecommunications Corp.
+
+CMU","Colonial Municipal Income Trust
+
+CNA","CNA Financial Corporation
+
+CNAF","Commercial National Financial Corporation
+
+CNAM","China Armco Metals
+
+CNBC","Center Bancorp
+
+CNBKA","Century Bancorp
+
+CNC","Centene Corporation
+
+CNI","Canadian National Railway Company
+
+CNK","Cinemark Holdings Inc
+
+CNL","Cleco Corporation
+
+CNMD","CONMED Corporation
+
+CNO","CNO Financial Group
+
+CNP","CenterPoint Energy
+
+CNQ","Canadian Natural Resources Limited
+
+CNQR","Concur Technologies
+
+CNSL","Consolidated Communications Holdings
+
+CNTY","Century Casinos
+
+CNU","Continucare Corp.
+
+CNVO","Convio
+
+CNW","CNF
+
+CNX","CONSOL Energy Inc.
+
+COBK","Colonial Financial Services
+
+COBR","Cobra Electronics Corporation
+
+COBZ","CoBiz Financial Inc.
+
+COCO","Corinthian Colleges
+
+CODE","Spansion Inc
+
+CODI","Compass Diversified Holdings
+
+COF","Capital One Financial
+
+COG","Cabot Oil & Gas
+
+COH","Coach Inc.
+
+COHR","Coherent
+
+COHU","Cohu
+
+COIN","Converted Organics Inc.
+
+COINZ","Converted Organics Inc.
+
+COKE","Coca-Cola Bottling Co. Consolidated
+
+COL","Rockwell Collins
+
+COLB","Columbia Banking System
+
+COLM","Columbia Sportswear Company
+
+COMV","Comverge
+
+CONM","Conmed Healthcare Management
+
+CONN","Conn's
+
+COO","Cooper Companies
+
+COOL","Majesco Entertainment Company
+
+COP","ConocoPhillips
+
+CORE","Core-Mark Holding Company
+
+CORT","Corcept Therapeutics Incorporated
+
+COSI","Cosi
+
+COST","Costco Wholesale Corporation
+
+COT","Cott Corporation
+
+COV","Covidien plc
+
+COVR","Cover-All Technologies Inc.
+
+COWN","Cowen Group
+
+COY","Blackrock Corporate High Yield Fund
+
+CP","Canadian Pacific Railway Limited
+
+CPB","Campbell Soup
+
+CPBC","Community Partners Bancorp
+
+CPBK","Community Capital Corporation
+
+CPD","Caraco Pharmaceutical Laboratories
+
+CPE","Callon Petroleum Company
+
+CPF","CPB Inc.
+
+CPHC","Canterbury Park Holding Corporation
+
+CPHD","CEPHEID
+
+CPIX","Cumberland Pharmaceuticals Inc.
+
+CPK","Chesapeake Utilities Corporation
+
+CPKI","California Pizza Kitchen
+
+CPLA","Capella Education Company
+
+CPN","Calpine Corporation
+
+CPNO","Copano Energy
+
+CPO","Corn Products International
+
+CPP","Merrill Lynch Depositor
+
+CPRT","Copart
+
+CPRX","Catalyst Pharmaceutical Partners
+
+CPSI","Computer Programs and Systems
+
+CPSS","Consumer Portfolio Services
+
+CPST","Capstone Turbine Corporation
+
+CPT","Camden Property Trust
+
+CPTS","Conceptus
+
+CPWM","Cost Plus
+
+CPWR","Compuware Corp.
+
+CPY","CPI Corporation
+
+CQB","Chiquita Brands International
+
+CQP","Cheniere Energy Partners
+
+CR","Crane Company
+
+CRAI","CRA International
+
+CRAY","Cray Inc
+
+CRBC","Citizens Republic Bancorp
+
+CRC","Chromcraft Revington
+
+CRDC","Cardica
+
+CRDN","Ceradyne
+
+CRED","Credo Petroleum Corporation
+
+CREE","Cree
+
+CRF","Cornerstone Strategic Return Fund
+
+CRFN","Crescent Financial Corporation
+
+CRI","Carter's
+
+CRIS","Curis
+
+CRK","Comstock Resources
+
+CRL","Charles River Laboratories International
+
+CRM","Salesforce.com
+
+CRME","Cardiome Pharma Corporation
+
+CRMT","America's Car-Mart
+
+CROX","Crocs
+
+CRP","Credit Suisse Guernsey BRH
+
+CRR","Carbo Ceramics
+
+CRRB","Carrollton Bancorp
+
+CRRC","Courier Corporation
+
+CRS","Carpenter Technology Corporation
+
+CRT","Cross Timbers Royalty Trust
+
+CRTX","Cornerstone Therapeutics Inc.
+
+CRUS","Cirrus Logic
+
+CRV","Coast Distribution System
+
+CRVL","CorVel Corp.
+
+CRVP","Crystal Rock Holdings
+
+CRWN","Crown Media Holdings
+
+CRWS","Crown Crafts
+
+CRY","CryoLife
+
+CRZO","Carrizo Oil & Gas
+
+CSBC","Citizens South Banking Corporation
+
+CSBK","Clifton Savings Bancorp
+
+CSC","Computer Sciences Corp.
+
+CSCD","Cascade Microtech
+
+CSCO","Cisco Systems, Inc.
+
+CSE","CapitalSource Inc
+
+CSFL","CenterState Banks
+
+CSGP","CoStar Group
+
+CSGS","CSG Systems International
+
+CSH","Cash America International
+
+CSII","Cardiovascular Systems
+
+CSL","Carlisle Companies Incorporated
+
+CSOD","Cornerstone OnDemand
+
+CSP","American Strategic Income Portfolio III
+
+CSPI","CSP Inc.
+
+CSQ","Calamos Strategic Total Return Fund
+
+CSS","CSS Industries
+
+CSTR","Coinstar
+
+CSU","Capital Senior Living Corporation
+
+CSV","Carriage Services
+
+CSWC","Capital Southwest Corporation
+
+CSX","CSX Corp.
+
+CT","Capital Trust
+
+CTAS","Cintas Corporation
+
+CTB","Cooper Tire & Rubber Company
+
+CTBC","The Connecticut Bank and Trust Company
+
+CTBI","Community Trust Bancorp
+
+CTCH","Commtouch Software Ltd.
+
+CTCT","Constant Contact
+
+CTGX","Computer Task Group
+
+CTHR","Charles & Colvard Ltd
+
+CTIB","CTI Industries Corporation
+
+CTL","CenturyTel Inc
+
+CTO","Consolidated-Tomoka Land Co.
+
+CTRN","Citi Trends
+
+CTRP","Ctrip.com International, Ltd.
+
+CTS","CTS Corporation
+
+CTSH","Cognizant Technology Solutions Corporation
+
+CTWS","Connecticut Water Service
+
+CTXS","Citrix Systems, Inc.
+
+CU","First Trust Exchange-Traded Fund II First Trust ISE Global Cop
+
+CUB","Cubic Corporation
+
+CUBA","The Herzfeld Caribbean Basin Fund
+
+CUO","Continental Materials Corporation
+
+CUR","Neuralstem
+
+CUTR","Cutera
+
+CUZ","Cousins Properties Incorporated
+
+CV","Central Vermont Pub Svc
+
+CVA","Covanta Holding Corporation
+
+CVB","Lehman ABS Corporation
+
+CVBF","CVB Financial Corporation
+
+CVBK","Central Virginia Bankshares
+
+CVC","Cablevision Systems Corp.
+
+CVCO","Cavco Industries
+
+CVCY","Central Valley Community Bancorp
+
+CVD","Covance Inc.
+
+CVG","Convergys Corporation
+
+CVGI","Commercial Vehicle Group
+
+CVGW","Calavo Growers
+
+CVH","Coventry Health Care Inc.
+
+CVLT","CommVault Systems
+
+CVLY","Codorus Valley Bancorp
+
+CVM","Cel-Sci Corporation
+
+CVO","Cenveo Inc
+
+CVR","Chicago Rivet & Machine Co.
+
+CVS","CVS Caremark Corp.
+
+CVTI","Covenant Transportation Group
+
+CVU","CPI Aerostructures
+
+CVV","CVD Equipment Corporation
+
+CVX","Chevron Corp.
+
+CW","Curtiss-Wright Corporation
+
+CWBC","Community West Bancshares
+
+CWBS","Commonwealth Bankshares
+
+CWEI","Clayton Williams Energy
+
+CWH","CommonWealth REIT
+
+CWHN","CommonWealth REIT
+
+CWST","Casella Waste Systems
+
+CWT","California Water  Service Group Holding
+
+CWTR","Coldwater Creek
+
+CWZ","Lehman ABS Corporation
+
+CX","Cemex S.A.B. de C.V.
+
+CXE","Colonial High Income Municipal Trust
+
+CXH","Colonial Investment Grade Municipal Trust
+
+CXM","Cardium Therapeutics
+
+CXPO","Crimson Exploration Inc.
+
+CXW","Corrections Corporation of America
+
+CY","Cypress Semiconductor Corporation
+
+CYAN","Cyanotech Corporation
+
+CYBE","CyberOptics Corporation
+
+CYBI","Cybex International
+
+CYBX","Cyberonics
+
+CYDE","CyberDefender Corporation
+
+CYE","Blackrock Corporate High Yield Fund III
+
+CYH","Community Health Systems
+
+CYMI","Cymer
+
+CYN","City National Corporation
+
+CYNO","Cynosure
+
+CYT","Cytec Industries Inc.
+
+CYTK","Cytokinetics
+
+CYTR","CytRx Corporation
+
+CYTX","Cytori Therapeutics Inc
+
+CZFC","Citizens First Corporation
+
+CZNC","Citizens & Northern Corp
+
+CZWI","Citizens Community Bancorp
+
+D","Dominion Resources
+
+DAIO","Data I/O Corporation
+
+DAKT","Daktronics
+
+DAR","Darling International Inc.
+
+DARA","DARA Biosciences
+
+DAVE","Famous Dave's of America
+
+DBD","Diebold
+
+DBLE","Double Eagle Petroleum Company
+
+DBLEP","Double Eagle Petroleum Company
+
+DCE","Deutsche Bk Cap Fdg Tr X
+
+DCI","Donaldson Company
+
+DCO","Ducommun Incorporated
+
+DCOM","Dime Community Bancshares
+
+DCTH","Delcath Systems
+
+DD","Du Pont (E.I.)
+
+DDD","3D Systems Corporation
+
+DDE","Dover Downs Gaming & Entertainment Inc
+
+DDF","Delaware Investments Dividend & Income Fund
+
+DDIC","DDi Corp.
+
+DDR","Developers Diversified Realty Corporation
+
+DDS","Dillard's
+
+DDSS","Labopharm Inc.
+
+DDT","Dillard's
+
+DE","Deere & Co.
+
+DEAR","Dearborn Bancorp
+
+DECK","Deckers Outdoor Corporation
+
+DEJ","Dejour Energy Inc.
+
+DEL","Deltic Timber Corporation
+
+DELL","Dell Inc.
+
+DENN","Denny's Corporation
+
+DEPO","DepoMed
+
+DEST","Destination Maternity Corporation
+
+DF","Dean Foods
+
+DFG","Delphi Financial Group
+
+DFP","Delphi Financial Group
+
+DFR","CIFC Deerfield Corp.
+
+DFS","Discover Financial Services
+
+DFZ","R.G. Barry Corporation
+
+DG","Dollar General Corporation
+
+DGAS","Delta Natural Gas Company
+
+DGF","Delaware Investments Global Dividend & Income Fund
+
+DGICA","Donegal Group
+
+DGICB","Donegal Group
+
+DGII","Digi International Inc.
+
+DGIT","DG FastChannel
+
+DGLY","Digital Ally
+
+DGSE","DGSE Companies
+
+DGX","Quest Diagnostics
+
+DHF","Dreyfus High Yield Strategies Fund
+
+DHFT","Diamond Hill Financial Trends Fund
+
+DHI","D. R. Horton
+
+DHIL","Diamond Hill Investment Group
+
+DHR","Danaher Corp.
+
+DHY","Credit Suisse High Yield Bond Fund
+
+DIETD","eDiets.com
+
+DIN","DineEquity
+
+DIOD","Diodes Incorporated
+
+DIS","Walt Disney Co.
+
+DISCA","Discovery Communications
+
+DISCB","Discovery Communications
+
+DISCK","Discovery Communications
+
+DISH","DISH Network Corporation
+
+DIT","AMCON Distributing Company
+
+DITC","Ditech Networks
+
+DJCO","Daily Journal Corp. (S.C.)
+
+DKS","Dick's Sporting Goods Inc
+
+DKT","Deutsch Bk Contingent Cap Tr V
+
+DLA","Delta Apparel
+
+DLLR","Dollar Financial Corp.
+
+DLTR","Dollar Tree, Inc.
+
+DLX","Deluxe Corporation
+
+DM","Dolan Company (The)
+
+DMAN","DemandTec
+
+DMC","Document Security Systems
+
+DMF","Dreyfus Municipal Income
+
+DMLP","Dorchester Minerals
+
+DMND","Diamond Foods
+
+DMRC","Digimarc Corporation
+
+DNB","Dun & Bradstreet
+
+DNBF","Dnb Financial Corp
+
+DNBK","Danvers Bancorp
+
+DNDN","Dendreon Corporation
+
+DNI","Dividend and Income Fund
+
+DNP","Duff & Phelps Utilities Income
+
+DNR","Denbury Resources Inc.
+
+DO","Diamond Offshore Drilling
+
+DOM","Dominion Resources Black Warrior Trust
+
+DORM","Dorman Products
+
+DOV","Dover Corp.
+
+DOVR","Dover Saddlery
+
+DOW","Dow Chemical
+
+DOX","Amdocs Limited
+
+DPL","DPL Inc.
+
+DPS","Dr Pepper Snapple Group
+
+DPTR","Delta Petroleum Corporation
+
+DPW","Digital Power Corporation
+
+DRAD","Digirad Corporation
+
+DRAM","Dataram Corporation
+
+DRCO","Dynamics Research Corporation
+
+DRE","Duke Realty Corporation
+
+DRI","Darden Restaurants
+
+DRIV","Digital River
+
+DRJ","Dreams
+
+DRQ","Dril-Quip
+
+DRRX","Durect Corporation
+
+DRU","Dominion Resources
+
+DRWI","Dragonwave Inc
+
+DSCI","Derma Sciences
+
+DSCO","Discovery Laboratories
+
+DSGX","The Descartes Systems Group Inc.
+
+DSM","Dreyfus Strategic Municipal Bond Fund
+
+DSPG","DSP Group
+
+DST","DST Systems
+
+DSTI","DayStar Technologies
+
+DSU","Blackrock Debt Strategies Fund
+
+DTE","DTE Energy Co.
+
+DTF","Duff & Phelps Utilities Tax-Free Income
+
+DTG","Dollar Thrifty Automotive Group
+
+DTLK","Datalink Corporation
+
+DTSI","DTS
+
+DTV","DIRECTV
+
+DUC","Duff & Phelps Utility & Corporate Bond Trust
+
+DUCK","Duckwall-Alco Stores
+
+DUK","Duke Energy
+
+DUSA","DUSA Pharmaceuticals
+
+DV","DeVry, Inc.
+
+DVA","DaVita Inc.
+
+DVAX","Dynavax Technologies Corporation
+
+DVD","Dover Downs Entertainment
+
+DVN","Devon Energy Corp.
+
+DVOX","DynaVox Inc.
+
+DW","Drew Industries Incorporated
+
+DWCH","Datawatch Corporation
+
+DWSN","Dawson Geophysical Company
+
+DX","Dynex Capital
+
+DXCM","DexCom
+
+DXPE","DXP Enterprises
+
+DXR","Daxor Corporation
+
+DXYN","The Dixie Group
+
+DY","Dycom Industries
+
+DYAX","Dyax Corp.
+
+DYII","Dynacq Healthcare
+
+DYN","Dynegy Inc.
+
+DYNT","Dynatronics Corporation
+
+DYSL","Dynasil Corporation of America
+
+EAA","Entergy Arkansas
+
+EAD","Wells Fargo Advantage Income Opportunities Fund
+
+EAGLU","Global Eagle Acquisition Corp.
+
+EAT","Brinker International
+
+EBAY","eBay Inc.
+
+EBF","Ennis
+
+EBIX","Ebix Inc
+
+EBMT","Eagle Bancorp Montana
+
+EBSB","Meridian Interstate Bancorp
+
+EBTC","Enterprise Bancorp Inc
+
+EBTX","Encore Bancshares
+
+ECA","Encana Corporation
+
+ECBE","ECB Bancorp Inc
+
+ECF","Ellsworth Convertible Growth and Income Fund
+
+ECGI","Envoy Capital Group Inc.
+
+ECHO","Echo Global Logistics
+
+ECL","Ecolab Inc.
+
+ECOL","US Ecology
+
+ECPG","Encore Capital Group Inc
+
+ECTY","Ecotality
+
+ECYT","Endocyte
+
+ED","Consolidated Edison
+
+EDAC","Edac Technologies Corporation
+
+EDD","Morgan Stanley Emerging Markets Domestic Debt Fund
+
+EDE","Empire District Electric Company (The)
+
+EDGR","EDGAR Online
+
+EDGW","Edgewater Technology
+
+EDMC","Education Management Corporation
+
+EDUC","Educational Development Corporation
+
+EE","El Paso Electric Company
+
+EEA","European Equity Fund
+
+EEFT","Euronet Worldwide
+
+EEI","Ecology and Environment
+
+EEP","Enbridge Energy
+
+EEQ","Enbridge Energy Management LLC
+
+EF","Edelman Financial Group Inc. (The)
+
+EFC","Ellington Financial LLC
+
+EFII","Electronics for Imaging
+
+EFM","Entergy Mississippi
+
+EFOI","Energy Focus
+
+EFR","Eaton Vance Senior Floating-Rate Fund
+
+EFSC","Enterprise Financial Services Corporation
+
+EFX","Equifax Inc.
+
+EGAS","Gas Natural Inc.
+
+EGBN","Eagle Bancorp
+
+EGHT","8x8 Inc
+
+EGI","Entree Gold Inc
+
+EGLE","Eagle Bulk Shipping Inc.
+
+EGN","Energen Corporation
+
+EGO","Eldorado Gold Corp
+
+EGOV","NIC Inc.
+
+EGP","EastGroup Properties
+
+EGT","Entertainment Gaming Asia Incorporated
+
+EGX","Engex
+
+EGY","Vaalco Energy Inc
+
+EHI","Western Asset Global High Income Fund Inc
+
+EHTH","eHealth
+
+EIA","Eaton Vance California Municipal Bond Fund II
+
+EIHI","Eastern Insurance Holdings
+
+EIM","Eaton Vance Municipal Bond Fund
+
+EIO","Eaton Vance Ohio Municipal Bond Fund
+
+EIP","Eaton Vance Pennsylvania Municipal Bond Fund
+
+EIV","Eaton Vance Municipal Bond Fund II
+
+EIX","Edison Int'l
+
+EK","Eastman Kodak Company
+
+EL","Estee Lauder Cos.
+
+ELB","Entergy Louisiana
+
+ELC","Eastern Light Capital
+
+ELGX","Endologix  Inc
+
+ELMG","EMS Technologies
+
+ELNK","EarthLink
+
+ELON","Echelon Corporation
+
+ELRC","Electro Rent Corporation
+
+ELS","Equity Lifestyle Properties
+
+ELSE","Electro-Sensors
+
+ELX","Emulex Corporation
+
+ELY","Callaway Golf Company
+
+EMAN","eMagin Corporation
+
+EMC","EMC Corp.
+
+EMCF","Emclaire Financial Corp
+
+EMCI","EMC Insurance Group
+
+EMD","Western Asset Emerging Markets Income Fund
+
+EME","EMCOR Group
+
+EMF","Templeton Emerging Markets Fund
+
+EMFN","iShares MSCI Emerging Markets Financials Sector Index Fund
+
+EMI","Eaton Vance Michigan Municipal Income Trust
+
+EMIF","iShares S&P Emerging Markets Infrastructure Index Fund
+
+EMJ","Eaton Vance New Jersey Municipal Bond Fund
+
+EMKR","EMCORE Corporation
+
+EML","Eastern Company (The)
+
+EMMS","Emmis Communications Corporation
+
+EMMSP","Emmis Communications Corporation
+
+EMMT","iShares MSCI Emerging Markets Materials Sector Index Fund
+
+EMN","Eastman Chemical
+
+EMQ","Entergy Mississippi
+
+EMR","Emerson Electric
+
+EMZ","Entergy Mississippi
+
+ENA","Enova Systems Inc.
+
+ENB","Enbridge Inc
+
+END","Endeavor International Corporation
+
+ENDP","Endo Pharmaceuticals Holdings Inc.
+
+ENER","Energy Conversion Devices
+
+ENG","ENGlobal Corporation
+
+ENMD","EntreMed
+
+ENOC","EnerNOC
+
+ENR","Energizer Holdings
+
+ENSG","The Ensign Group
+
+ENTG","Entegris
+
+ENTR","Entropic Communications
+
+ENWV","Endwave Corporation
+
+ENX","Eaton Vance New York Municipal Bond Fund
+
+ENZ","Enzo Biochem
+
+ENZN","Enzon Pharmaceuticals
+
+EOD","Wells Fargo Advantage Global Dividend Opportunity Fund
+
+EOG","EOG Resources
+
+EONC","eOn Communications Corporation
+
+EOSPN","EOS Preferred Corporation
+
+EOT","Eaton Vance Municipal Income Trust
+
+EP","El Paso Corp.
+
+EPAX","Ambassadors Group
+
+EPAY","Bottomline Technologies
+
+EPD","Enterprise Products Partners L.P.
+
+EPHC","Epoch Holding Corporation
+
+EPIQ","EPIQ Systems
+
+EPL","Energy Partners
+
+EPM","Evolution Petroleum Corporation
+
+EPOC","Epocrates
+
+EPR","Entertainment Properties Trust
+
+EQIX","Equinix
+
+EQR","Equity Residential
+
+EQS","Equus Total Return
+
+EQT","EQT Corporation
+
+EQY","Equity One
+
+ERC","Wells Fargo Advantage Multi-Sector Income Fund
+
+ERF","Enerplus Corporation
+
+ERIE","Erie Indemnity Company
+
+ERII","Energy Recovery
+
+EROC","Eagle Rock Energy Partners
+
+ERT","eResearch Technology Inc.
+
+ERTS","Electronic Arts Inc.
+
+ESBF","ESB Financial Corporation
+
+ESBK","The Elmira Savings Bank
+
+ESC","Emeritus Corporation
+
+ESCA","Escalade
+
+ESD","Western Asset Emerging Markets Debt Fund Inc
+
+ESE","ESCO Technologies Inc.
+
+ESI","ITT Educational Services
+
+ESIC","EasyLink Services International Corporation
+
+ESIO","Electro Scientific Industries
+
+ESL","Esterline Technologies Corporation
+
+ESLR","Evergreen Solar
+
+ESMC","Escalon Medical Corp.
+
+ESP","Espey Mfg. & Electronics Corp.
+
+ESRX","Express Scripts, Inc.
+
+ESS","Essex Property Trust
+
+ESSA","ESSA Bancorp
+
+ESSX","Essex Rental Corporation
+
+ESTE","Earthstone Energy
+
+ESV","ENSCO plc
+
+ESYS","Elecsys Corporation
+
+ETF","Aberdeen Emerging Markets Telecommunications and Infrastructur
+
+ETFC","E-Trade
+
+ETG","Eaton Vance Tax-Advantaged Global Dividend Income Fund
+
+ETH","Ethan Allen Interiors Inc.
+
+ETM","Entercom Communications Corporation
+
+ETN","Eaton Corp.
+
+ETP","ENERGY TRANSFER PARTNERS
+
+ETR","Entergy Corp.
+
+ETRM","EnteroMedics Inc.
+
+ETV","Eaton Vance Corporation
+
+ETW","Eaton Vance Corporation
+
+EUFN","iShares MSCI Europe Financials Sector Index Fund
+
+EV","Eaton Vance Corporation
+
+EVBN","Evans Bancorp
+
+EVBS","Eastern Virginia Bankshares
+
+EVC","Entravision Communications Corporation
+
+EVEP","EV Energy Partners
+
+EVF","Eaton Vance Senior Income Trust
+
+EVI","EnviroStarm
+
+EVJ","Eaton Vance New Jersey Municipal Income Trust
+
+EVK","Ever-Glory International Group
+
+EVM","Eaton Vance California Municipal Bond Fund
+
+EVN","Eaton Vance Municipal Income Trust
+
+EVO","Eaton Vance Ohio Municipal Income Trust
+
+EVOL","Evolving Systems
+
+EVP","Eaton Vance Pennsylvania Municipal Income Trust
+
+EVT","Eaton Vance Tax Advantaged Dividend Income Fund
+
+EVV","Eaton Vance Limited Duration Income Fund
+
+EVY","Eaton Vance New York Municipal Income Trust
+
+EW","Edwards Lifesciences
+
+EWBC","East West Bancorp
+
+EXAC","Exactech
+
+EXAR","Exar Corporation
+
+EXAS","EXACT Sciences Corporation
+
+EXBD","The Corporate Executive Board Company
+
+EXC","Exelon Corp.
+
+EXE","Crexendo
+
+EXEL","Exelixis
+
+EXFO","EXFO Inc
+
+EXG","Eaton Vance Tax-Managed Global Diversified Equity Income Fund
+
+EXLP","Exterran Partners
+
+EXLS","ExlService Holdings
+
+EXP","Eagle Materials Inc
+
+EXPD","Expeditors International of Washington, Inc.
+
+EXPE","Expedia, Inc.
+
+EXPO","Exponent
+
+EXTR","Extreme Networks
+
+EZPW","EZCORP
+
+F","Ford Motor
+
+FABK","First Advantage Bancorp
+
+FAC","Liberte Investors Inc.
+
+FACE","Physicians Formula Holdings
+
+FAF","First American Corporation (The)
+
+FALC","FalconStor Software
+
+FARM","Farmer Brothers Company
+
+FARO","FARO Technologies
+
+FAST","Fastenal Company
+
+FAX","Aberdeen Asia-Pacific Income Fund Inc
+
+FBC","Flagstar Bancorp
+
+FBCM","FBR Capital Markets Corporation
+
+FBIZ","First Business Financial Services
+
+FBMI","Firstbank Corporation
+
+FBMS","The First Bancshares
+
+FBN","Furniture Brands International
+
+FBNC","First Bancorp
+
+FBP","First BanCorp.
+
+FBSI","First Bancshares
+
+FBSS","Fauquier Bankshares
+
+FC","Franklin Covey Company
+
+FCAL","First California Financial Group
+
+FCAP","First Capital
+
+FCBC","First Community Bancshares
+
+FCCO","First Community Corporation
+
+FCCY","1st Constitution Bancorp (NJ)
+
+FCEL","FuelCell Energy
+
+FCF","First Commonwealth Financial Corporation
+
+FCFC","FirstCity Financial Corporation
+
+FCFS","First Cash Financial Services
+
+FCH","FelCor Lodging Trust Incorporated
+
+FCHI","iShares FTSE China (HK Listed) Index Fund
+
+FCLF","First Clover Leaf Financial Corp.
+
+FCN","FTI Consulting
+
+FCNCA","First Citizens BancShares
+
+FCO","Aberdeen Global Income Fund
+
+FCS","Fairchild Semiconductor International
+
+FCTY","1st Century Bancshares
+
+FCVA","First Capital Bancorp
+
+FCX","Freeport-McMoran Cp & Gld
+
+FCY","Forest City Enterprises Inc
+
+FCZA","First Citizens Banc Corp.
+
+FDEF","First Defiance Financial Corp.
+
+FDI","Fort Dearborn Income Securities
+
+FDML","Federal-Mogul Corporation
+
+FDO","Family Dollar Stores
+
+FDP","Fresh Del Monte Produce
+
+FDS","FactSet Research Systems Inc.
+
+FDX","FedEx Corporation
+
+FE","FirstEnergy Corp
+
+FEFN","iShares MSCI Far East Financials Sector Index Fund
+
+FEIC","FEI Company
+
+FEIM","Frequency Electronics
+
+FELE","Franklin Electric Co.
+
+FF","FutureFuel Corp.
+
+FFBC","First Financial Bancorp.
+
+FFBH","First Federal Bancshares of Arkansas
+
+FFCH","First Financial Holdings
+
+FFCO","FedFirst Financial Corporation
+
+FFDF","FFD Financial Corporation
+
+FFEX","Frozen Food Express Industries
+
+FFFD","North Central Bancshares
+
+FFG","FBL Financial Group
+
+FFI","Fortune Diversified Industries
+
+FFIC","Flushing Financial Corporation
+
+FFIN","First Financial Bankshares
+
+FFIV","F5 Networks, Inc.
+
+FFKT","Farmers Capital Bank Corporation
+
+FFKY","First Financial Service Corporation
+
+FFN","FriendFinder Networks Inc.
+
+FFNM","First Federal of Northern Michigan Bancorp
+
+FFNW","First Financial Northwest
+
+FGB","First Trust Specialty Finance and Financial Opportunities Fund
+
+FGP","Ferrellgas Partners
+
+FHCO","Female Health Company (The)
+
+FHN","First Horizon National
+
+FIBK","First Interstate BancSystem
+
+FICO","Fair
+
+FIG","Fortress Investment Group LLC
+
+FII","Federated Investors Inc.
+
+FINL","The Finish Line
+
+FIRE","Sourcefire
+
+FIS","Fidelity National Information Services
+
+FISI","Financial Institutions
+
+FISV","Fiserv, Inc.
+
+FITB","Fifth Third Bancorp
+
+FITBP","Fifth Third Bancorp
+
+FIX","Comfort Systems USA
+
+FIZZ","National Beverage Corp.
+
+FJA","Merrill Lynch Depositor
+
+FL","Footlocker Inc
+
+FLC","Flaherty & Crumrine/Claymore Total Return Fund Inc
+
+FLEX","Flextronics International Ltd.
+
+FLIC","The First of Long Island Corporation
+
+FLIR","FLIR Systems, Inc.
+
+FLL","Full House Resorts
+
+FLO","Flowers Foods
+
+FLOW","Flow International Corporation
+
+FLR","Fluor Corp.
+
+FLS","Flowserve Corporation
+
+FLWS","1-800 FLOWERS.COM
+
+FLXS","Flexsteel Industries
+
+FMAR","First Mariner Bancorp
+
+FMBI","First Midwest Bancorp
+
+FMC","FMC Corporation
+
+FMD","First Marblehead Corporation (The)
+
+FMER","FirstMerit Corporation
+
+FMFC","First M & F Corporation
+
+FMX","Fomento Economico Mexicano S.A.B. de C.V.
+
+FNB","F.N.B. Corporation
+
+FNBN","FNB United Corp.
+
+FNF","Fidelity National Financial
+
+FNFG","First Niagara Financial Group Inc.
+
+FNGN","Financial Engines
+
+FNLC","First Bancorp
+
+FNSR","Finisar Corporation
+
+FO","Fortune Brands Inc.
+
+FOE","Ferro Corporation
+
+FOH","Frederick's of Hollywood Group
+
+FOLD","Amicus Therapeutics
+
+FONE","First Trust NASDAQ CEA Smartphone Index Fund
+
+FONR","Fonar Corporation
+
+FORD","Forward Industries
+
+FORM","FormFactor
+
+FORR","Forrester Research
+
+FOSL","Fossil
+
+FPFC","First Place Financial Corp.
+
+FPIC","FPIC Insurance Group
+
+FPO","First Potomac Realty Trust
+
+FPP","FieldPoint Petroleum Corporation
+
+FPTB","First PacTrust Bancorp
+
+FR","First Industrial Realty Trust
+
+FRA","Blackrock Floating Rate Income Strategies Fund Inc
+
+FRBK","Republic First Bancorp
+
+FRCCO","First Republic Preferred Capital Corporation
+
+FRD","Friedman Industries Inc.
+
+FRED","Fred's
+
+FRM","Furmanite Corporation
+
+FRME","First Merchants Corporation
+
+FRNK","Franklin Financial Corporation
+
+FRP","FairPoint Communications
+
+FRPT","Force Protection
+
+FRS","Frisch's Restaurants
+
+FRT","Federal Realty Investment Trust
+
+FRX","Forest Laboratories
+
+FSBI","Fidelity Bancorp
+
+FSBK","First South Bancorp Inc
+
+FSCI","Fisher Communications
+
+FSFG","First Savings Financial Group
+
+FSI","Flexible Solutions International Inc.
+
+FSII","FSI International
+
+FSLR","First Solar, Inc.
+
+FSRV","FirstService Corporation
+
+FSS","Federal Signal Corporation
+
+FST","Forest Oil Corporation
+
+FSTR","L.B. Foster Company
+
+FSYS","Fuel Systems Solutions
+
+FT","Franklin Universal Trust
+
+FTEK","Fuel Tech
+
+FTF","Franklin Templeton Limited Duration Income Trust
+
+FTI","FMC Technologies Inc.
+
+FTK","Flotek Industries
+
+FTNT","Fortinet
+
+FTO","Frontier Oil Corporation
+
+FTR","Frontier Communications
+
+FTWR","FiberTower Corporation
+
+FUBC","1st United Bancorp
+
+FUEL","SMF Energy Corporation
+
+FUL","H. B. Fuller Company
+
+FULL","Full Circle Capital Corporation
+
+FULT","Fulton Financial Corporation
+
+FUN","Cedar Fair
+
+FUNC","First United Corporation
+
+FUND","Royce Focus Trust
+
+FUR","First Union Real Estate Equity and Mortgage Investments
+
+FURX","Furiex Pharmaceuticals
+
+FVE","Five Star Quality Care
+
+FWLT","Foster Wheeler AG.
+
+FWRD","Forward Air Corporation
+
+FWV","First West Virginia Bancorp
+
+FXCB","Fox Chase Bancorp
+
+FXEN","FX Energy
+
+GAB","Gabelli Equity Trust
+
+GABC","German American Bancorp
+
+GAIA","Gaiam
+
+GAIN","Gladstone Investment Corporation
+
+GAM","General American Investors
+
+GAR","Georgia Power Company
+
+GAS","NICOR Inc.
+
+GAT","Georgia Power Company
+
+GB","Greatbatch
+
+GBCI","Glacier Bancorp
+
+GBDC","Golub Capital BDC
+
+GBE","Grubb
+
+GBG","Great Basin Gold
+
+GBL","Gamco Investors
+
+GBNK","Guaranty Bancorp
+
+GBR","New Concept Energy
+
+GBX","Greenbrier Companies
+
+GCAP","GAIN Capital Holdings
+
+GCBC","Greene County Bancorp
+
+GCFB","Granite City Food And Brewery Ltd.
+
+GCH","Greater China Fund
+
+GCI","Gannett Co.
+
+GCO","Genesco Inc.
+
+GCOM","Globecomm Systems Inc.
+
+GCV","Gabelli Convertible and Income Securities Fund
+
+GD","General Dynamics
+
+GDF","Western Asset Global Partners Income Fund
+
+GDI","Gardner Denver
+
+GDL","The GDL Fund
+
+GDP","Goodrich Petroleum Corporation
+
+GDV","Gabelli Dividend
+
+GE","General Electric
+
+GEA","General Electric Capital Corporation
+
+GEC","General Electric Capital Corporation
+
+GED","General Electric Capital Corporation
+
+GEF","Greif Bros. Corporation
+
+GEG","General Electric Capital Corporation
+
+GEJ","General Electric Capital Corporation
+
+GEL","Genesis Energy
+
+GEO","Geo Group Inc (The)
+
+GEOI","GeoResources
+
+GEOY","GeoEye
+
+GEP","General Electric Capital Corporation
+
+GER","General Electric Capital Corporation
+
+GERN","Geron Corporation
+
+GES","Guess?
+
+GET","Gaylord Entertainment Company
+
+GEVO","Gevo
+
+GF","New Germany Fund
+
+GFED","Guaranty Federal Bancshares
+
+GFF","Griffon Corporation
+
+GFIG","GFI Group Inc.
+
+GFW","American Financial Group
+
+GFZ","American Financial Group
+
+GG","Goldcorp Incorporated
+
+GGC","Georgia Gulf Corporation
+
+GGE","Guggenheim Enhanced Equity Strategy Fund
+
+GGG","Graco Inc.
+
+GGP","General Growth Properties
+
+GGR","GeoGlobal Resources Inc.
+
+GGS","Global Geophysical Services
+
+GGT","Gabelli Global Multi-Media Trust
+
+GHDX","Genomic Health
+
+GHI","Global High Income Dollar Fund
+
+GHM","Graham Corporation
+
+GIB","CGI Group
+
+GIFI","Gulf Island Fabrication
+
+GIGA","Giga-tronics Incorporated
+
+GIII","G-III Apparel Group
+
+GIL","Gildan Activewear
+
+GILD","Gilead Sciences, Inc.
+
+GIM","Templeton Global Income Fund
+
+GIS","General Mills
+
+GJD","SYNTHETIC FIXED INCOME SECURITIES INC
+
+GJH","SYNTHETIC FIXED INCOME SECURITIES INC
+
+GJI","SYNTHETIC FIXED INCOME SECURITIES INC
+
+GJJ","SYNTHETIC FIXED INCOME SECURITIES INC
+
+GJK","SYNTHETIC FIXED INCOME SECURITIES INC
+
+GJM","GMAC LLC
+
+G [... text truncated] hnical Systems
+
+NTSP","NetSpend Holdings
+
+NTWK","NetSol Technologies Inc.
+
+NTX","Nuveen Texas Quality Income Municipal Fund
+
+NU","Northeast Utilities
+
+NUAN","Nuance Communications
+
+NUC","Nuveen California Quality Income Municipal Fund
+
+NUCL","iShares S&P Global Nuclear Index Fund
+
+NUE","Nucor Corp.
+
+NUJ","Nuveen New Jersey Dividend Advantage Municipal Fund 2
+
+NUM","Nuveen Michigan Quality Income Municipal Fund
+
+NUN","Nuveen New York Quality Income Municipal Fund
+
+NUO","Nuveen Ohio Quality Income Municipal Fund
+
+NURO","NeuroMetrix
+
+NUS","Nu Skin Enterprises
+
+NUTR","Nutraceutical International Corporation
+
+NUV","Nuveen Municipal Value Fund
+
+NUVA","NuVasive
+
+NUW","Nuveen Municipal Value Fund
+
+NVAX","Novavax
+
+NVC","Nuveen California Select Quality Municipal Fund
+
+NVDA","NVIDIA Corporation
+
+NVE","NV Energy
+
+NVEC","NVE Corporation
+
+NVG","Nuveen Insured Dividend Advantage Municipal Fund
+
+NVJ","Nuveen Ohio Dividend Advantage Municipal Fund 3
+
+NVLS","Novellus Systems
+
+NVN","Nuveen New York Select Quality Municipal Fund
+
+NVR","NVR
+
+NVSL","Naugatuck Valley Financial Corporation
+
+NVTL","Novatel Wireless
+
+NVX","Nuveen California Dividend Advantage Municipal Fund 2
+
+NVY","Nuveen Pennsylvania Dividend Advantage Municipal Fund 2
+
+NWBI","Northwest Bancshares
+
+NWE","NorthWestern Corporation
+
+NWFL","Norwood Financial Corp.
+
+NWI","Nuveen Maryland Dividend Advantage Municipal Fund 3
+
+NWK","Network Equipment Technologies
+
+NWL","Newell Rubbermaid Co.
+
+NWLI","National Western Life Insurance Company
+
+NWN","Northwest Natural Gas Company
+
+NWPX","Northwest Pipe Company
+
+NWS","News Corporation
+
+NWSA","News Corporation
+
+NX","Quanex Building Products Corporation
+
+NXC","Nuveen Insured California Select Tax-Free Income Portfolio
+
+NXE","Nuveen Arizona Dividend Advantage Municipal Fund 3
+
+NXG","Northgate Minerals Corporation
+
+NXI","Nuveen Ohio Dividend Advantage Municipal Fund
+
+NXJ","Nuveen New Jersey Dividend Advantage Municipal Fund
+
+NXK","Nuveen New York Dividend Advantage Municipal Fund 2
+
+NXM","Nuveen Pennsylvania Dividend Advantage Municipal Fund
+
+NXN","Nuveen Insured New York Select Tax-Free Income Portfolio
+
+NXP","Nuveen Select Tax Free Income Portfolio
+
+NXQ","Nuveen Select Tax Free Income Portfolio II
+
+NXR","Nuveen Select Tax Free Income Portfolio III
+
+NXST","Nexstar Broadcasting Group
+
+NXTM","NxStage Medical
+
+NXY","Nexen
+
+NXZ","Nuveen Dividend Advantage Municipal Fund 2
+
+NYB","New York Community Bancorp
+
+NYH","Eaton Vance New York Municipal Bond Fund II
+
+NYMT","New York Mortgage Trust
+
+NYMX","Nymox Pharmaceutical Corporation
+
+NYNY","Empire Resorts
+
+NYT","New York Times Company (The)
+
+NYX","NYSE Euronext
+
+NZF","Nuveen Dividend Advantage Municipal Fund 3
+
+NZH","Nuveen California Dividend Advantage Municipal Fund 3
+
+NZR","Nuveen Maryland Dividend Advantage Municipal Fund 2
+
+NZW","Nuveen Michigan Dividend Advantage Municipal Fund
+
+NZX","Nuveen Georgia Dividend Advantage Municipal Fund
+
+O","Realty Income Corporation
+
+OBAF","OBA Financial Services
+
+OBCI","Ocean Bio-Chem
+
+OC","Owens Corning Inc
+
+OCC","Optical Cable Corporation
+
+OCFC","OceanFirst Financial Corp.
+
+OCLR","Oclaro
+
+OCLS","Oculus Innovative Sciences
+
+OCN","Ocwen Financial Corporation
+
+OCR","Omnicare
+
+ODC","Oil-Dri Corporation Of America
+
+ODFL","Old Dominion Freight Line
+
+ODP","Office Depot
+
+OESX","Orion Energy Systems
+
+OFC","Corporate Office Properties Trust
+
+OFG","Oriental Financial Group
+
+OFI","Overhill Farms
+
+OFLX","Omega Flex
+
+OGE","OGE Energy Corporation
+
+OGXI","OncoGenex Pharmaceuticals Inc.
+
+OHI","Omega Healthcare Investors
+
+OI","Owens-Illinois Inc
+
+OIA","Invesco Municipal Income Opportunities Trust
+
+OIB","Invesco Municipal Income Opportunities Trust II
+
+OIC","Invesco Municipal Income Opportunities Trust III
+
+OII","Oceaneering International
+
+OIS","Oil States International
+
+OKE","ONEOK
+
+OKS","ONEOK Partners
+
+OKSB","Southwest Bancorp
+
+OKSBP","Southwest Bancorp
+
+OLBK","Old Line Bancshares
+
+OLCB","Ohio Legacy Corporation
+
+OLN","Olin Corporation
+
+OLP","One Liberty Properties
+
+OMAB","Grupo Aeroportuario del Centro Norte S.A.B. de C.V.
+
+OMC","Omnicom Group
+
+OMCL","Omnicell
+
+OME","Omega Protein Corporation
+
+OMER","Omeros Corporation
+
+OMEX","Odyssey Marine Exploration
+
+OMG","OM Group
+
+OMI","Owens & Minor
+
+OMN","OMNOVA Solutions Inc.
+
+OMPI","Obagi Medical Products
+
+OMX","Officemax Incorporated
+
+ONB","Old National Bancorp Capital Trust I
+
+ONCY","Oncolytics Biotech
+
+ONEQ","Fidelity Nasdaq Composite Index Tracking Stock
+
+ONFC","Oneida Financial Corp.
+
+ONNN","ON Semiconductor Corporation
+
+ONSM","Onstream Media Corporation
+
+ONTY","Oncothyreon Inc .
+
+ONVI","Onvia
+
+ONXX","ONYX Pharmaceuticals
+
+OPEN","OpenTable
+
+OPHC","OptimumBank Holdings
+
+OPK","Opko Health Inc
+
+OPLK","Oplink Communications
+
+OPNT","OPNET Technologies Inc.
+
+OPOF","Old Point Financial Corporation
+
+OPTR","Optimer Pharmaceuticals
+
+OPTT","Ocean Power Technologies
+
+OPWV","Openwave Systems Inc
+
+OPXA","Opexa Therapeutics
+
+OPXT","Opnext
+
+OPY","Oppenheimer Holdings
+
+ORB","Orbital Sciences Corporation
+
+ORBC","ORBCOMM Inc.
+
+ORBT","Orbit International Corporation
+
+ORCC","Online Resources Corporation
+
+ORCH","Orchid Cellmark Inc.
+
+ORCL","Oracle Corporation
+
+OREX","Orexigen Therapeutics
+
+ORI","Old Republic International Corporation
+
+ORIT","Oritani Financial Corp.
+
+ORLY","O'Reilly Automotive, Inc.
+
+ORN","Orion Marine Group Inc
+
+ORRF","Orrstown Financial Services Inc
+
+OSBC","Old Second Bancorp
+
+OSBCP","Old Second Bancorp
+
+OSG","Overseas Shipholding Group
+
+OSHC","Ocean Shore Holding Co.
+
+OSIR","Osiris Therapeutics
+
+OSIS","OSI Systems
+
+OSK","Oshkosh Truck Corporation
+
+OSM","SLM Corporation
+
+OSTK","Overstock.com
+
+OSUR","OraSure Technologies
+
+OTEX","Open Text Corporation
+
+OTTR","Otter Tail Corporation
+
+OUTD","Outdoor Channel Holdings
+
+OVBC","Ohio Valley Banc Corp.
+
+OVLY","Oak Valley Bancorp (CA)
+
+OVRL","Overland Storage
+
+OVTI","OmniVision Technologies
+
+OXGN","OXiGENE
+
+OXLC","Oxford Lane Capital Corp.
+
+OXM","Oxford Industries
+
+OXPS","optionsXpress Holdings
+
+OXY","Occidental Petroleum
+
+OYOG","OYO Geospace Corporation
+
+OZM","Och-Ziff Capital Management Group LLC
+
+OZRK","Bank of the Ozarks
+
+PAA","Plains All American Pipeline
+
+PAAS","Pan American Silver Corp.
+
+PACB","Pacific Biosciences of California
+
+PACR","Pacer International
+
+PACW","PacWest Bancorp
+
+PAET","PAETEC Holding Corp.
+
+PAG","Penske Automotive Group
+
+PAGG","PowerShares Global Agriculture Portfolio
+
+PAI","Pacific American Income Shares
+
+PAL","North American Palladium
+
+PANL","Universal Display Corporation
+
+PAR","PAR Technology Corporation
+
+PARD","Poniard Pharmaceuticals
+
+PARL","Parlux Fragrances
+
+PATK","Patrick Industries
+
+PATR","Patriot Transportation Holding
+
+PAY","Verifone Systems
+
+PAYX","Paychex, Inc.
+
+PBCT","People's United Bank
+
+PBHC","Pathfinder Bancorp
+
+PBI","Pitney-Bowes
+
+PBIB","Porter Bancorp
+
+PBIO","Pressure BioSciences
+
+PBIP","Prudential Bancorp
+
+PBNY","Provident New York Bancorp
+
+PBT","Permian Basin Royalty Trust
+
+PBY","Pep Boys-Manny
+
+PCAR","PACCAR Inc.
+
+PCBC","Pacific Capital Bancorp
+
+PCBK","Pacific Continental Corporation (Ore)
+
+PCBS","Provident Community Bancshares
+
+PCC","PMC Commercial Trust
+
+PCCC","PC Connection
+
+PCE","Pacific Office Properties Trust
+
+PCF","Putnam High Income Bond Fund
+
+PCG","PG&E Corp.
+
+PCH","Potlatch Corporation
+
+PCK","Pimco California Municipal Income Fund II
+
+PCL","Plum Creek Timber Co.
+
+PCLN","priceline.com Incorporated
+
+PCM","PIMCO Commercial Mortgage Securities Trust
+
+PCN","Pimco Corporate Income Fund
+
+PCOM","Points International
+
+PCP","Precision Castparts
+
+PCQ","PIMCO California Municipal Income Fund
+
+PCRX","Pacira Pharmaceuticals
+
+PCS","MetroPCS Communications Inc.
+
+PCTI","PC-Tel
+
+PCYC","Pharmacyclics
+
+PCYO","Pure Cycle Corporation
+
+PDC","Pioneer Drilling Co
+
+PDCO","Patterson Companies
+
+PDEX","Pro-Dex
+
+PDFS","PDF Solutions
+
+PDII","PDI
+
+PDLI","PDL BioPharma
+
+PDO","Pyramid Oil Co
+
+PDS","Precision Drilling Corporation
+
+PDT","John Hancock Premium Dividend Fund
+
+PEBK","Peoples Bancorp of North Carolina
+
+PEBO","Peoples Bancorp Inc.
+
+PEDH","Peoples Educational Holdings
+
+PEET","Peet's Coffee & Tea
+
+PEG","Public Serv. Enterprise Inc.
+
+PEGA","Pegasystems Inc.
+
+PEI","Pennsylvania Real Estate Investment Trust
+
+PEIXD","Pacific Ethanol
+
+PENN","Penn National Gaming
+
+PENX","Penford Corporation
+
+PEO","Petroleum Resources Corporation
+
+PEOP","Peoples Federal Bancshares
+
+PEP","PepsiCo Inc.
+
+PERF","Perfumania Holdings
+
+PERY","Perry Ellis International Inc.
+
+PESI","Perma-Fix Environmental Services
+
+PETD","Petroleum Development Corporation
+
+PETM","PetSmart
+
+PETS","PetMed Express
+
+PFBC","Preferred Bank
+
+PFBI","Premier Financial Bancorp
+
+PFBX","Peoples Financial Corporation
+
+PFCB","P.F.Chang's China Bistro
+
+PFD","Flaherty & Crumrine Preferred Income Fund Incorporated
+
+PFE","Pfizer Inc.
+
+PFED","Park Bancorp
+
+PFG","Principal Financial Group
+
+PFIN","P & F Industries
+
+PFK","Prudential Financial
+
+PFL","PIMCO Income Strategy Fund
+
+PFO","Flaherty & Crumrine Preferred Income Opportunity Fund Inc
+
+PFS","Provident Financial Services
+
+PFSW","PFSweb
+
+PFX","Phoenix Companies
+
+PG","Procter & Gamble
+
+PGC","Peapack-Gladstone Financial Corporation
+
+PGEB","Merrill Lynch & Co.
+
+PGH","Pengrowth Energy Corporation
+
+PGI","PTEK Holdings
+
+PGN","Progress Energy Inc.
+
+PGNX","Progenics Pharmaceuticals Inc.
+
+PGR","Progressive Corp.
+
+PGTI","PGT
+
+PH","Parker-Hannifin
+
+PHA","PulteGroup
+
+PHC","PHC
+
+PHF","Pacholder High Yield Fund
+
+PHII","PHI
+
+PHIIK","PHI
+
+PHM","Pulte Homes Inc.
+
+PHMD","PhotoMedex
+
+PHR","Prudential Financial
+
+PHT","Pioneer High Income Trust
+
+PHX","Panhandle Royalty Company
+
+PIA","Invesco Municipal Premium Income Trust
+
+PICO","PICO Holdings Inc.
+
+PII","Polaris Industries Inc.
+
+PIJ","Merrill Lynch Depositor
+
+PIM","Putnam Master Intermediate Income Trust
+
+PIR","Pier 1 Imports
+
+PIS","Merrill Lynch Depositor
+
+PIY","Merrill Lynch Depositor
+
+PJA","Preferred Plus Trust Ser QWS 2 Tr Ctf
+
+PJC","Piper Jaffray Companies
+
+PJI","PPlus Trust
+
+PJL","Preferredplus Tr
+
+PJR","Merrill Lynch Depositor
+
+PJS","PreferredPlus Trust
+
+PJT","Preferred Plus Trust GEC-1 6.05
+
+PKBK","Parke Bancorp
+
+PKD","Parker Drilling Company
+
+PKE","Park Electrochemical Corporation
+
+PKG","Packaging Corporation of America
+
+PKH","Merrill Lynch Depositor Inc Preferred Plus Trust Ser QWS-1 7.7
+
+PKI","PerkinElmer
+
+PKJ","Merrill Lynch Depositor
+
+PKK","Merrill Lynch Depositor
+
+PKOH","Park-Ohio Holdings Corp.
+
+PKOL","PowerShares Global Coal Portfolio
+
+PKT","Procera Networks
+
+PKY","Parkway Properties
+
+PL","Protective Life Corporation
+
+PLAB","Photronics
+
+PLBC","Plumas Bancorp
+
+PLCC","Paulson Capital Corp.
+
+PLCE","The Children's Place Retail Stores
+
+PLCM","Polycom
+
+PLD","ProLogis
+
+PLFE","Presidential Life Corporation
+
+PLG","Platinum Group Metals Ltd.
+
+PLL","Pall Corp.
+
+PLM","Polymet Mining Corp.
+
+PLNR","Planar Systems
+
+PLP","Protective Life Corporation
+
+PLPC","Preformed Line Products Company
+
+PLT","Plantronics
+
+PLTM","First Trust Exchange-Traded Fund II First Trust ISE Global Pla
+
+PLUGD","Plug Power
+
+PLUS","ePlus Inc.
+
+PLV","PPL Corporation
+
+PLX","Protalix BioTherapeutics
+
+PLXS","Plexus Corp.
+
+PLXT","PLX Technology
+
+PM","Philip Morris International
+
+PMBC","Pacific Mercantile Bancorp
+
+PMCS","PMC - Sierra
+
+PMD","Psychemedics Corporation
+
+PMF","PIMCO Municipal Income Fund
+
+PMFG","PMFG
+
+PMI","PMI Group
+
+PMIC","Penn Millers Holding Corporation
+
+PML","Pimco Municipal Income Fund II
+
+PMM","Putnam Managed Municipal Income Trust
+
+PMNA","PowerShares MENA Frontier Countries Portfolio
+
+PMO","Putnam Municipal Opportunities Trust
+
+PMTC","Parametric Technology Corporation
+
+PMTI","Palomar Medical Technologies
+
+PMX","PIMCO Municipal Income Fund III
+
+PNBC","Princeton National Bancorp
+
+PNBK","Patriot National Bancorp Inc.
+
+PNC","PNC Financial Services
+
+PNCL","Pinnacle Airlines Corp.
+
+PNF","PIMCO New York Municipal Income Fund
+
+PNFP","Pinnacle Financial Partners
+
+PNH","PNC Cap Tr E
+
+PNI","Pimco New York Municipal Income Fund II
+
+PNK","Pinnacle Entertainment
+
+PNM","PNM Resources
+
+PNNT","PennantPark Investment Corporation
+
+PNNW","Pennichuck Corporation
+
+PNQI","PowerShares NASDAQ Internet Portfolio
+
+PNR","Pentair
+
+PNRA","Panera Bread Company
+
+PNRG","PrimeEnergy Corporation
+
+PNS","Pinnacle Data Systems
+
+PNSN","Penson Worldwide
+
+PNU","PNC Financial Services Group
+
+PNW","Pinnacle West Capital
+
+PNX","Phoenix Companies
+
+PNY","Piedmont Natural Gas Company
+
+PODD","Insulet Corporation
+
+POL","PolyOne Corporation
+
+POM","Pepco Holdings Inc.
+
+POOL","Pool Corporation
+
+POPE","Pope Resources
+
+POT","Potash Corporation of Saskatchewan Inc.
+
+POWI","Power Integrations
+
+POWL","Powell Industries
+
+POWR","PowerSecure International
+
+POZN","Pozen
+
+PPBI","Pacific Premier Bancorp Inc
+
+PPD","Pre-Paid Legal Services
+
+PPDI","Pharmaceutical Product Development
+
+PPG","PPG Industries
+
+PPHM","Peregrine Pharmaceuticals Inc.
+
+PPL","PPL Corp.
+
+PPR","ING Prime Rate Trust
+
+PPS","Post Properties
+
+PQ","Petroquest Energy Inc
+
+PRA","ProAssurance Corporation
+
+PRAA","Portfolio Recovery Associates
+
+PRCP","Perceptron
+
+PRFT","Perficient
+
+PRFZ","PowerShares FTSE RAFI US 1500 Small-Mid Portfolio
+
+PRGO","Perrigo Company
+
+PRGS","Progress Software Corporation
+
+PRGX","PRGX Global
+
+PRIM","Primoris Services Corporation
+
+PRK","Park National Corporation
+
+PRKR","ParkerVision
+
+PRLS","Peerless Systems Corporation
+
+PRM","PRIMEDIA Inc.
+
+PRO","PROS Holdings
+
+PROJ","Deltek
+
+PROV","Provident Financial Holdings
+
+PRPH","ProPhase Labs
+
+PRSC","The Providence Service Corporation
+
+PRSP","Prosperity Bancshares
+
+PRST","Presstek
+
+PRTS","U.S. Auto Parts Network
+
+PRU","Prudential Financial
+
+PRWT","Premier West Bancorp
+
+PRX","Pharmaceutical Resources
+
+PRXI","Premier Exhibitions
+
+PRXL","PAREXEL International Corporation
+
+PSA","Public Storage
+
+PSAU","PowerShares Global Gold & Precious Metals Portfolio
+
+PSB","PS Business Parks
+
+PSBH","PSB Holdings
+
+PSCC","PowerShares Exchange-Traded Fund Trust II PowerShares S&P Smal
+
+PSCD","PowerShares Exchange-Traded Fund Trust II PowerShares S&P Smal
+
+PSCE","PowerShares Exchange-Traded Fund Trust II PowerShares S&P Smal
+
+PSCF","PowerShares Exchange-Traded Fund Trust II PowerShares S&P Smal
+
+PSCH","PowerShares Exchange-Traded Fund Trust II PowerShares S&P Smal
+
+PSCI","PowerShares Exchange-Traded Fund Trust II PowerShares S&P Smal
+
+PSCM","PowerShares Exchange-Traded Fund Trust II PowerShares S&P Smal
+
+PSCT","PowerShares Exchange-Traded Fund Trust II PowerShares S&P Smal
+
+PSCU","PowerShares Exchange-Traded Fund Trust II PowerShares S&P Smal
+
+PSDV","pSivida Corp.
+
+PSEC","Prospect Capital Corporation
+
+PSEM","Pericom Semiconductor Corporation
+
+PSID","PositiveID Corporation
+
+PSMT","PriceSmart
+
+PSS","Collective Brands
+
+PSSI","PSS World Medical Inc.
+
+PSTL","PowerShares Global Steel Portfolio
+
+PSUN","Pacific Sunwear of California
+
+PSW","Blackrock Preferred and Corporate Income Strategies Fund Inc
+
+PTEK","PokerTek
+
+PTEN","Patterson-UTI Energy
+
+PTIE","Pain Therapeutics
+
+PTIX","Performance Technologies
+
+PTN","Palatin Technologies
+
+PTRY","The Pantry
+
+PTSI","P.A.M. Transportation Services
+
+PTSX","Point.360
+
+PTX","Pernix Therapeutics Holdings
+
+PULB","Pulaski Financial Corp.
+
+PULS","Pulse Electronics Corporation
+
+PURE","PURE Bioscience
+
+PVA","Penn Virginia Corporation
+
+PVFC","PVF Capital Corp.
+
+PVH","Phillips-Van Heusen Corporation
+
+PVR","Penn Virginia Resource Partners LP
+
+PVSA","Parkvale Financial Corporation
+
+PVSW","Pervasive Software Inc.
+
+PVTB","PrivateBancorp
+
+PVTBP","PrivateBancorp
+
+PVX","Provident Energy Ltd.
+
+PW","Pittsburgh & West Virginia Railroad
+
+PWAV","Powerwave Technologies
+
+PWE","Penn West Petroleum Ltd
+
+PWER","Power-One
+
+PWND","PowerShares Global Wind Energy Portfolio
+
+PWOD","Penns Woods Bancorp
+
+PWR","Quanta Services Inc.
+
+PWX","Providence and Worcester Railroad Company
+
+PX","Praxair Inc.
+
+PXD","Pioneer Natural Resources
+
+PXLW","Pixelworks
+
+PYA","PPlus Trust
+
+PYB","PPlus Trust
+
+PYC","PPlus Trust
+
+PYG","PPlus Trust
+
+PYJ","PPlus Trust
+
+PYK","PPlus Trust
+
+PYL","PPlus Trust
+
+PYN","PIMCO New York Municipal Income Fund III
+
+PYS","PPlus Trust
+
+PYT","PPlus Trust
+
+PYV","PPlus Trust
+
+PYY","Merrill Lynch Depositor
+
+PZB","Merrill Lynch Depositor
+
+PZC","PIMCO California Municipal Income Fund III
+
+PZG","Paramount Gold and Silver Corp.
+
+PZZA","Papa John's International
+
+PZZI","Pizza Inn
+
+QABA","First Trust NASDAQ ABA Community Bank Index Fund
+
+QADA","QAD Inc.
+
+QADB","QAD Inc.
+
+QBAK","Qualstar Corporation
+
+QBC","Cubic Energy Inc
+
+QCCO","QC Holdings
+
+QCLN","First Trust NASDAQ Clean Edge U.S. Liquid Series Index Fund
+
+QCOM","QUALCOMM Incorporated
+
+QCOR","Questcor Pharmaceuticals
+
+QCRH","QCR Holdings
+
+QDEL","Quidel Corporation
+
+QEP","QEP Resources
+
+QGEN","Qiagen N.V.
+
+QLGC","QLogic Corporation
+
+QLIK","Qlik Technologies Inc.
+
+QLTI","QLT Inc.
+
+QLTY","Quality Distribution
+
+QNST","QuinStreet
+
+QPSA","Quepasa Corporation
+
+QQEW","First Trust NASDAQ-100 Equal Weighted Index Fund
+
+QQQ","PowerShares QQQ Trust
+
+QQQX","NASDAQ Premium Income and Growth Fund Inc.
+
+QQXT","First Trust NASDAQ-100 Ex-Technology Sector Index Fund
+
+QRM","Quest Rare Minerals Ltd
+
+QSFT","Quest Software
+
+QSII","Quality Systems
+
+QTEC","First Trust NASDAQ-100-Technology Sector Index Fund
+
+QTM","Quantum Corporation
+
+QTWW","Quantum Fuel Systems Technologies Worldwide
+
+QUIK","QuickLogic Corporation
+
+R","Ryder System
+
+RA","RailAmerica
+
+RAD","Rite Aid Corporation
+
+RADS","Radiant Systems
+
+RAE","RAE Systems Inc
+
+RAH","Ralcorp Holdings
+
+RAI","Reynolds American Inc.
+
+RAIL","FreightCar America
+
+RAM","RAM Energy Resources
+
+RAND","Rand Capital Corporation
+
+RAS","RAIT Financial Trust
+
+RAVN","Raven Industries
+
+RBA","Ritchie Bros. Auctioneers Incorporated
+
+RBC","Regal Beloit Corporation
+
+RBCAA","Republic Bancorp
+
+RBCN","Rubicon Technology
+
+RBN","Robbins & Myers
+
+RBNF","Rurban Financial Corp
+
+RBPAA","Royal Bancshares of Pennsylvania
+
+RBY","Rubicon Minerals Corp
+
+RC","Grupo Radio Centro
+
+RCG","Renaissance Capital Growth & Income Fund III
+
+RCI","Rogers Communication
+
+RCII","Rent-A-Center Inc.
+
+RCKB","Rockville Financial
+
+RCKY","Rocky Brands
+
+RCL","Royal Caribbean Cruises Ltd.
+
+RCMT","RCM Technologies
+
+RCS","RCM Strategic Global Government Fund
+
+RDC","Rowan Cos.
+
+RDEA","Ardea Biosciences
+
+RDEN","Elizabeth Arden
+
+RDI","Reading International Inc
+
+RDIB","Reading International Inc
+
+RDK","Ruddick Corporation
+
+RDN","Radian Group Inc.
+
+RDNT","RadNet
+
+RECN","Resources Connection
+
+REED","Reeds
+
+REFR","Research Frontiers Incorporated
+
+REG","Regency Centers Corporation
+
+REGN","Regeneron Pharmaceuticals
+
+REIS","Reis
+
+RELL","Richardson Electronics
+
+RELV","Reliv' International
+
+RENT","Rentrak Corporation
+
+RES","RPC
+
+REV","Revlon
+
+REVU","The Princeton Review
+
+REX","REX American Resources Corporation
+
+REXI","Resource America
+
+REXX","Rex Energy Corporation
+
+RF","Regions Financial Corp.
+
+RFA","BlackRock Florida Investment Quality Municipal Trust Inc. (The
+
+RFI","Cohen & Steers Total Return Realty Fund
+
+RFIL","RF Industries
+
+RFMD","RF Micro Devices
+
+RFMI","RF Monolithics
+
+RGA","Reinsurance Group of America
+
+RGC","Regal Entertainment Group
+
+RGCO","RGC Resources Inc.
+
+RGDX","Response Genetics
+
+RGEN","Repligen Corporation
+
+RGLD","Royal Gold
+
+RGNC","Regency Energy Partners LP
+
+RGR","Sturm
+
+RGS","Regis Corporation
+
+RHI","Robert Half International
+
+RHT","Red Hat Inc.
+
+RIC","Richmont Mines
+
+RICK","Rick's Cabaret International
+
+RIG","Transocean Inc.
+
+RIGL","Rigel Pharmaceuticals
+
+RIMG","Rimage Corporation
+
+RIMM","Research in Motion Limited
+
+RIT","LMP Real Estate Income Fund Inc
+
+RIVR","River Valley Bancorp.
+
+RJET","Republic Airways Holdings
+
+RJF","Raymond James Financial
+
+RKT","Rock-Tenn Company
+
+RL","Polo Ralph Lauren Corp.
+
+RLH","Red Lion Hotels Corporation
+
+RLI","RLI Corp.
+
+RLOC","ReachLocal
+
+RLOG","Rand Logistics
+
+RLRN","Renaissance Learning
+
+RMBS","Rambus
+
+RMCF","Rocky Mountain Chocolate Factory
+
+RMD","ResMed Inc.
+
+RMKR","Rainmaker Systems
+
+RMT","Royce Micro-Cap Trust
+
+RMTI","Rockwell Medical Technologies
+
+RMTR","Ramtron International Corporation
+
+RNE","Morgan Stanley Eastern Europe Fund
+
+RNET","RigNet
+
+RNIN","Wireless Ronin Technologies
+
+RNJ","BlackRock New Jersey Investment Quality Municipal Trust Inc.
+
+RNN","Rexahn Pharmaceuticals
+
+RNOW","RightNow Technologies
+
+RNP","Cohen & Steers Reit and Preferred Income Fund Inc
+
+RNST","Renasant Corporation
+
+RNWK","RealNetworks
+
+RNY","BlackRock New York Investment Quality Municipal Trust Inc. (Th
+
+ROCK","Gibraltar Industries
+
+ROCM","Rochester Medical Corporation
+
+RODM","Rodman & Renshaw Capital Group
+
+ROG","Rogers Corporation
+
+ROIA","Radio One
+
+ROIAK","Radio One
+
+ROIC","Retail Opportunity Investments Corp.
+
+ROK","Rockwell Automation Inc.
+
+ROL","Rollins
+
+ROMA","Roma Financial Corporation
+
+ROP","Roper Industries
+
+ROSE","Rosetta Resources Inc.
+
+ROST","Ross Stores, Inc.
+
+ROVI","Rovi Corporation
+
+ROYL","Royale Energy
+
+RP","RealPage
+
+RPC","AMDL INC
+
+RPI","Roberts Realty Investors
+
+RPM","RPM International Inc.
+
+RPRX","Repros Therapeutics Inc.
+
+RPT","Ramco-Gershenson Properties Trust
+
+RPTP","Raptor Pharmaceutical Corp.
+
+RPXC","RPX Corporation
+
+RQI","Cohen & Steers Quality Income Realty Fund Inc
+
+RRC","Range Resources Corp.
+
+RRD","Donnelley (R.R.) & Sons
+
+RRGB","Red Robin Gourmet Burgers
+
+RRR","RSC Holdings Inc.
+
+RS","Reliance Steel & Aluminum Co.
+
+RSG","Republic Services Inc
+
+RSH","RadioShack Corp
+
+RSO","Resource Capital Corp.
+
+RSOL","Real Goods Solar
+
+RSTI","Rofin-Sinar Technologies
+
+RSYS","RadiSys Corporation
+
+RT","Ruby Tuesday
+
+RTEC","Rudolph Technologies
+
+RTI","RTI International Metals
+
+RTIX","RTI Biologics
+
+RTK","Rentech
+
+RTN","Raytheon Co.
+
+RUE","rue21
+
+RURL","Rural/Metro Corporation
+
+RUSHA","Rush Enterprises
+
+RUSHB","Rush Enterprises
+
+RUTH","Ruth's Hospitality Group
+
+RVBD","Riverbed Technology
+
+RVM","Revett Minerals Inc.
+
+RVP","Retractable Technologies
+
+RVR","White River Capital
+
+RVSB","Riverview Bancorp Inc
+
+RVT","Royce Value Trust
+
+RWC","RELM Wireless Corporation
+
+RWT","Redwood Trust
+
+RXII","RXi Pharmaceuticals Corporation
+
+RY","Royal Bank Of Canada
+
+RYL","Ryland Group
+
+RYN","Rayonier Inc. REIT
+
+S","Sprint Nextel Corp.
+
+SAAS","inContact
+
+SAB","Grupo Casa Saba
+
+SABA","Saba Software
+
+SAFM","Sanderson Farms
+
+SAFT","Safety Insurance Group
+
+SAH","Sonic Automotive
+
+SAI","SAIC
+
+SAIA","Saia
+
+SAL","Salisbury Bancorp
+
+SALM","Salem Communications Corporation
+
+SAM","Boston Beer Company
+
+SANM","Sanmina-SCI Corporation
+
+SANW","S&W Seed Company
+
+SAPE","Sapient Corporation
+
+SAR","Saratoga Investment Corp
+
+SASR","Sandy Spring Bancorp
+
+SATC","SatCon Technology Corporation
+
+SATS","EchoStar Corporation
+
+SAVB","The Savannah Bancorp
+
+SAVE","Spirit Airlines
+
+SBAC","SBA Communications Corporation
+
+SBBX","Sussex Bancorp
+
+SBCF","Seacoast Banking Corporation of Florida
+
+SBGI","Sinclair Broadcast Group
+
+SBI","Western Asset Intermediate Muni Fund Inc
+
+SBIB","Sterling Bancshares
+
+SBIBN","Sterling Bancshares
+
+SBNY","Signature Bank
+
+SBR","Sabine Royalty Trust
+
+SBSA","Spanish Broadcasting System
+
+SBSI","Southside Bancshares
+
+SBUX","Starbucks Corporation
+
+SBW","Western Asset Worldwide Income Fund Inc.
+
+SBX","SeaBright Holdings
+
+SCBT","SCBT Financial Corporation
+
+SCCO","Southern Copper Corporation
+
+SCD","LMP Capital and Income Fund Inc.
+
+SCG","SCANA Corp
+
+SCHL","Scholastic Corporation
+
+SCHN","Schnitzer Steel Industries
+
+SCHS","School Specialty
+
+SCHW","Charles Schwab
+
+SCI","Service Corporation International
+
+SCIL","Scientific Learning Corporation
+
+SCKT","Socket Mobile
+
+SCL","Stepan Company
+
+SCLN","SciClone Pharmaceuticals
+
+SCMF","Southern Community Financial Corporation
+
+SCMFO","Southern Community Financial Corporation
+
+SCMP","Sucampo Pharmaceuticals
+
+SCMR","Sycamore Networks
+
+SCON","Superconductor Technologies Inc.
+
+SCOR","comScore
+
+SCS","Steelcase Inc.
+
+SCSC","ScanSource
+
+SCSS","Select Comfort Corporation
+
+SCU","Scana Corporation
+
+SCVL","Shoe Carnival
+
+SCX","L.S. Starrett Company (The)
+
+SD","Sandridge Energy Inc.
+
+SDBT","SoundBite Communications
+
+SDIX","Strategic Diagnostics Inc.
+
+SE","Spectra Energy Corp.
+
+SEAC","SeaChange International
+
+SEB","Seaboard Corporation
+
+SED","SED International Holdings Inc
+
+SEE","Sealed Air Corp.(New)
+
+SEH","Spartech Corporation
+
+SEIC","SEI Investments Company
+
+SEM","Select Medical Holdings Corporation
+
+SEMG","Semgroup Corporation
+
+SENEA","Seneca Foods Corp.
+
+SENEB","Seneca Foods Corp.
+
+SERV","Servidyne
+
+SEV","Sevcon
+
+SF","Stifel Financial Corporation
+
+SFD","Smithfield Foods
+
+SFE","Safeguard Scientifics
+
+SFG","StanCorp Financial Group
+
+SFI","iStar Financial Inc.
+
+SFLY","Shutterfly
+
+SFN","SFN Group
+
+SFNC","Simmons First National Corporation
+
+SFSF","SuccessFactors
+
+SFST","Southern First Bancshares
+
+SFY","Swift Energy Company
+
+SGA","Saga Communications
+
+SGB","Southwest Georgia Financial Corporation
+
+SGC","Superior Uniform Group
+
+SGEN","Seattle Genetics
+
+SGF","Singapore Fund
+
+SGI","Silicon Graphics International Corp
+
+SGK","Schawk
+
+SGL","Strategic Global Income Fund
+
+SGMA","SigmaTron International
+
+SGMO","Sangamo BioSciences
+
+SGMS","Scientific Games Corp
+
+SGNT","Sagent Pharmaceuticals
+
+SGRP","SPAR Group
+
+SGS","Stream Global Services
+
+SGU","Star Gas Partners
+
+SGY","Stone Energy Corporation
+
+SGZ","Selective Insurance Group
+
+SHAW","Shaw Group Inc. (The)
+
+SHBI","Shore Bancshares Inc
+
+SHEN","Shenandoah Telecommunications Co
+
+SHFL","Shuffle Master
+
+SHLD","Sears Holdings Corporation
+
+SHLM","A. Schulman
+
+SHLO","Shiloh Industries
+
+SHOO","Steven Madden
+
+SHOR","ShoreTel
+
+SHS","Sauer-Danfoss Inc.
+
+SHW","Sherwin-Williams
+
+SIAL","Sigma-Aldrich Corporation
+
+SID","National Steel Corporation
+
+SIEB","Siebert Financial Corp.
+
+SIF","SIFCO Industries
+
+SIFI","SI Financial Group
+
+SIGA","SIGA Technologies Inc.
+
+SIGI","Selective Insurance Group
+
+SIGM","Sigma Designs
+
+SILU","Sprott Resource Lending Corp.
+
+SIM","Grupo Simec
+
+SIMG","Silicon Image
+
+SINO","Sino-Global Shipping America
+
+SIRI","Sirius XM Radio Inc.
+
+SIRO","Sirona Dental Systems
+
+SIVB","SVB Financial Group
+
+SIVBO","SVB Financial Group
+
+SIX","Six Flags Entertainment Corporation New
+
+SJI","South Jersey Industries
+
+SJM","Smucker (J.M.)
+
+SJR","Shaw Communications Inc.
+
+SJT","San Juan Basin Royalty Trust
+
+SJW","SJW Corporation
+
+SKS","Saks Incorporated
+
+SKT","Tanger Factory Outlet Centers
+
+SKX","Skechers U.S.A.
+
+SKY","Skyline Corporation
+
+SKYW","SkyWest
+
+SLA","American Select Portfolio
+
+SLAB","Silicon Laboratories
+
+SLB","Schlumberger Ltd.
+
+SLE","Sara Lee Corp.
+
+SLF","Sun Life Financial Inc.
+
+SLG","SL Green Realty Corporation
+
+SLGN","Silgan Holdings
+
+SLH","Solera Holdings
+
+SLI","SL Industries
+
+SLM","SLM Corporation
+
+SLP","Simulations Plus
+
+SLRC","Solar Capital Ltd.
+
+SLTC","Selectica
+
+SLTM","Solta Medical
+
+SLW","Silver Wheaton Corp
+
+SLXP","Salix Pharmaceuticals
+
+SM","SM Energy Company
+
+SMBC","Southern Missouri Bancorp
+
+SMBL","Smart Balance Inc
+
+SMCG","Millenium India Acquisition Company Inc.
+
+SMCI","Super Micro Computer
+
+SMED","Sharps Compliance Corp
+
+SMG","Scotts Miracle-Gro Company (The)
+
+SMIT","Schmitt Industries
+
+SMMF","Summit Financial Group
+
+SMOD","SMART Modular Technologies (WWH)
+
+SMP","Standard Motor Products
+
+SMRT","Stein Mart
+
+SMSC","Standard Microsystems Corporation
+
+SMSI","Smith Micro Software
+
+SMT","SMART Technologies Inc.
+
+SMTC","Semtech Corporation
+
+SMTX","SMTC Corporation
+
+SNA","Snap-On Inc.
+
+SNAK","Inventure Foods
+
+SNBC","Sun Bancorp
+
+SNCR","Synchronoss Technologies
+
+SNDK","SanDisk Corporation
+
+SNF","Spain Fund (The)
+
+SNFCA","Security National Financial Corporation
+
+SNH","Senior Housing Properties Trust
+
+SNHY","Sun Hydraulics Corporation
+
+SNI","Scripps Networks Interactive Inc.
+
+SNMX","Senomyx
+
+SNPS","Synopsys
+
+SNSS","Sunesis Pharmaceuticals
+
+SNSTA","Sonesta International Hotels Corporation
+
+SNT","Senesco Technologies Inc
+
+SNTA","Synta Pharmaceuticals Corp.
+
+SNTS","Santarus
+
+SNV","Synovus Financial Corp.
+
+SNX","Synnex Corporation
+
+SO","Southern Co.
+
+SOA","Solutia Inc
+
+SOCB","Southcoast Financial Corporation
+
+SOFO","Sonic Foundry
+
+SOLR","GT Solar International
+
+SOMH","Somerset Hills Bancorp
+
+SOMX","Somaxon Pharmaceuticals
+
+SON","Sonoco Products Company
+
+SONA","Southern National Bancorp of Virginia
+
+SONC","Sonic Corp.
+
+SONE","S1 Corporation
+
+SONO","SonoSite
+
+SONS","Sonus Networks
+
+SOQ","Sonde Resources Corp
+
+SOR","Source Capital
+
+SOXX","iShares Goldman Sachs Semiconductor Index Fund
+
+SPA","Sparton Corporation
+
+SPAN","Span-America Medical Systems
+
+SPAR","Spartan Motors
+
+SPCHA","Sport Chalet
+
+SPCHB","Sport Chalet
+
+SPE","Special Opportunities Fund Inc.
+
+SPEX","Spherix Incorporated
+
+SPF","Standard Pacific Corp
+
+SPG","Simon Property Group Inc
+
+SPH","Suburban Propane Partners
+
+SPIR","Spire Corporation
+
+SPLS","Staples, Inc.
+
+SPMD","SuperMedia Inc.
+
+SPN","Superior Energy Services
+
+SPNC","The Spectranetics Corporation
+
+SPPI","Spectrum Pharmaceuticals
+
+SPPR","Supertel Hospitality
+
+SPPRO","Supertel Hospitality
+
+SPPRP","Supertel Hospitality
+
+SPRO","SmartPros Ltd.
+
+SPRT","support.com
+
+SPSC","SPS Commerce
+
+SPTN","Spartan Stores
+
+SPW","SPX Corporation
+
+SPWRA","SunPower Corporation
+
+SPWRB","SunPower Corporation
+
+SQI","SciQuest
+
+SQNM","Sequenom
+
+SQQQ","ProShares UltraPro Short QQQ
+
+SR","Standard Register Company (The)
+
+SRCE","1st Source Corporation
+
+SRCL","Stericycle, Inc.
+
+SRDX","SurModics
+
+SRE","Sempra Energy
+
+SREV","ServiceSource International
+
+SRI","Stoneridge
+
+SRLS","SeraCare Life Sciences Inc
+
+SRSL","SRS Labs
+
+SRT","StarTek
+
+SRX","SRA International
+
+SRZ","Sunrise Senior Living
+
+SSBI","Summit State Bank
+
+SSD","Simpson Manufacturing Company
+
+SSE","Southern Connecticut Bancorp Inc
+
+SSFN","Stewardship Financial Corp
+
+SSI","Stage Stores
+
+SSNC","SS&C Technologies Holdings
+
+SSP","E.W. Scripps Company (The)
+
+SSRI","Silver Standard Resources
+
+SSS","Sovran Self Storage
+
+SSY","SunLink Health Systems
+
+SSYS","Stratasys
+
+STAA","STAAR Surgical Company
+
+STAG","Stag Industrial
+
+STAN","Standard Parking Corporation
+
+STBA","S&T Bancorp
+
+STBC","State Bancorp
+
+STBZ","State Bank Financial Corporation.
+
+STC","Stewart Information Services Corporation
+
+STE","STERIS Corporation
+
+STEC","STEC
+
+STEI","Stewart Enterprises
+
+STEL","StellarOne Corporation
+
+STEM","StemCells
+
+STFC","State Auto Financial Corporation
+
+STI","SunTrust Banks
+
+STJ","St Jude Medical
+
+STKL","SunOpta
+
+STL","Sterling Bancorp
+
+STLD","Steel Dynamics
+
+STLY","Stanley Furniture Company
+
+STMP","Stamps.com Inc.
+
+STND","Standard Financial Corp.
+
+STON","StoneMor Partners L.P.
+
+STR","Questar Corporation
+
+STRA","Strayer Education
+
+STRC","SRI/Surgical Express
+
+STRL","Sterling Construction Company Inc
+
+STRM","Streamline Health Solutions
+
+STRN","Sutron Corporation
+
+STRS","Stratus Properties
+
+STRT","Strattec Security Corporation
+
+STS","Supreme Industries
+
+STSA","Sterling Financial Corporation
+
+STT","State Street Corp.
+
+STX","Seagate Technology.
+
+STXS","Stereotaxis
+
+STZ","Constellation Brands
+
+SU","Suncor Energy  Inc.
+
+SUBK","Suffolk Bancorp
+
+SUF","Sulphco
+
+SUG","Southern Union Company
+
+SUI","Sun Communities
+
+SUMR","Summer Infant
+
+SUN","Sunoco Inc.
+
+SUNH","Sun Healthcare Group
+
+SUNS","Solar Senior Capital Ltd.
+
+SUP","Superior Industries International
+
+SUPG","SuperGen
+
+SUPX","Supertex
+
+SURG","Synergetics USA
+
+SURW","SureWest Communications
+
+SUSQ","Susquehanna Bancshares
+
+SUSS","Susser Holdings Corporation
+
+SVBI","Severn Bancorp Inc
+
+SVBL","Silver Bull Resources
+
+SVM","Silvercorp Metals Inc
+
+SVNT","Savient Pharmaceuticals Inc
+
+SVT","Servotronics
+
+SVU","Supervalu Inc.
+
+SVVC","Firsthand Technology Value Fund
+
+SVVS","SAVVIS
+
+SWC","Stillwater Mining Company
+
+SWHC","Smith & Wesson Holding Corporation
+
+SWI","Solarwinds
+
+SWIR","Sierra Wireless
+
+SWK","Stanley Black & Decker
+
+SWKS","Skyworks Solutions
+
+SWM","Schweitzer-Mauduit International
+
+SWN","Southwestern Energy
+
+SWS","SWS Group
+
+SWTX","Southwall Technologies
+
+SWU","Stanley Black & Decker
+
+SWX","Southwest Gas Corporation
+
+SWY","Safeway Inc.
+
+SWZ","Swiss Helvetia Fund
+
+SXCI","SXC Health Solutions Corp.
+
+SXI","Standex International Corporation
+
+SXL","Sunoco Logistics Partners LP
+
+SXT","Sensient Technologies Corporation
+
+SYBT","S.Y. Bancorp
+
+SYBTP","S.Y. Bancorp
+
+SYK","Stryker Corp.
+
+SYKE","Sykes Enterprises
+
+SYMC","Symantec Corporation
+
+SYMM","Symmetricom
+
+SYMS","Syms Corp
+
+SYMX","Synthesis Energy Systems
+
+SYNA","Synaptics Incorporated
+
+SYNL","Synalloy Corporation
+
+SYNM","Syntroleum Corporation
+
+SYNO","Synovis Life Technologies
+
+SYNT","Syntel
+
+SYPR","Sypris Solutions
+
+SYUT","Synutra International
+
+SYX","Systemax Inc.
+
+SYY","Sysco Corp.
+
+SZYM","Solazyme
+
+T","AT&T Inc
+
+TAC","TransAlta Corporation
+
+TACT","TransAct Technologies Incorporated
+
+TAI","Transamerica Income Shares
+
+TAIT","Taitron Components Incorporated
+
+TAP","Molson Coors Brewing Company
+
+TASR","TASER International
+
+TAST","Carrols Restaurant Group
+
+TAT","Transatlantic Petroleum Ltd
+
+TAXI","Medallion Financial Corp.
+
+TAYC","Taylor Capital Group
+
+TAYCP","Taylor Capital Group
+
+TAYD","Taylor Devices
+
+TBAC","Tandy Brands Accessories
+
+TBBK","The Bancorp
+
+TBI","TrueBlue
+
+TBL","Timberland Company (The)
+
+TBNK","Territorial Bancorp Inc.
+
+TBUS","DRI Corporation
+
+TC","Thompson Creek Metals Company Inc.
+
+TCAP","Triangle Capital Corporation
+
+TCB","TCF Financial Corporation
+
+TCBI","Texas Capital Bancshares
+
+TCBK","TriCo Bancshares
+
+TCHC","21st Century Holding Company
+
+TCI","Transcontinental Realty Investors
+
+TCLP","TC PipeLines
+
+TCO","Taubman Centers
+
+TCRD","THL Credit
+
+TCX","Tucows Inc.
+
+TD","Toronto Dominion Bank (The)
+
+TDBK","Tidelands Bancshares
+
+TDC","Teradata Corp.
+
+TDE","Telephone and Data Systems
+
+TDF","Templeton Dragon Fund
+
+TDI","Telephone and Data Systems
+
+TDJ","Telephone and Data Systems
+
+TDS","Telephone and Data Systems
+
+TDW","Tidewater Inc.
+
+TDY","Teledyne Technologies Incorporated
+
+TE","TECO Energy
+
+TEAR","TearLab Corporation
+
+TECD","Tech Data Corporation
+
+TECH","Techne Corporation
+
+TECUA","Tecumseh Products Company
+
+TECUB","Tecumseh Products Company
+
+TEG","Integrys Energy Group Inc.
+
+TEI","Templeton Emerging Markets Income Fund
+
+TELK","Telik
+
+TEN","Tenneco Automotive
+
+TER","Teradyne Inc.
+
+TESO","Tesco Corporation
+
+TESS","TESSCO Technologies Incorporated
+
+TEVA","Teva Pharmaceutical Industries Limited
+
+TEX","Terex Corporation
+
+TFCO","Tufco Technologies
+
+TFM","The Fresh Market
+
+TFONY","Telefonos de Mexico
+
+TFSL","TFS Financial Corporation
+
+TFX","Teleflex Incorporated
+
+TG","Tredegar Corporation
+
+TGA","Transglobe Energy Corp
+
+TGAL","Tegal Corporation
+
+TGB","Taseko Mines Limited
+
+TGC","Tengasco
+
+TGE","TGC Industries
+
+TGI","Triumph Group
+
+TGT","Target Corp.
+
+TGX","Theragenics Corporation
+
+THC","Tenet Healthcare Corp.
+
+THFF","First Financial Corporation Indiana
+
+THG","The Hanover Insurance Group
+
+THLD","Threshold Pharmaceuticals
+
+THM","International Tower Hill Mines Ltd
+
+THO","Thor Industries
+
+THOR","Thoratec Corporation
+
+THQI","THQ Inc.
+
+THRD","TF Financial Corporation
+
+THRX","Theravance
+
+TIBB","TIB Financial Corporation
+
+TIBX","TIBCO Software
+
+TICC","TICC Capital Corp.
+
+TIE","Titanium Metals Corp
+
+TIER","Tier Technologies
+
+TIF","Tiffany & Co.
+
+TIGR","TigerLogic Corporation
+
+TIII","TII Network Technologies
+
+TIK","Tel-Instrument Electronics Corp.
+
+TIN","Temple-Inland Inc.
+
+TINY","Harris & Harris Group
+
+TISI","Team
+
+TITN","Titan Machinery Inc.
+
+TIV","Tri-Valley Corporation
+
+TIVO","TiVo Inc.
+
+TJX","TJX Companies Inc.
+
+TKF","Turkish Investment Fund
+
+TKLC","Tekelec
+
+TKMR","Tekmira Pharmaceuticals Corp
+
+TKR","Timken Company (The)
+
+TLAB","Tellabs Inc.
+
+TLB","Talbots
+
+TLEO","Taleo Corporation
+
+TLF","Tandy Leather Factory
+
+TLI","LMP Corporate Loan Fund Inc
+
+TLM","Talisman Energy Inc.
+
+TLR","Timberline Resources Corporation
+
+TMK","Torchmark Corp.
+
+TMM","Grupo TMM
+
+TMNG","The Management Network Group
+
+TMO","Thermo Fisher Scientific
+
+TMP","Tompkins Financial Corporation
+
+TMX","Telefonos de Mexico
+
+TNAV","TeleNav
+
+TNB","Thomas & Betts Corporation
+
+TNC","Tennant Company
+
+TNCC","Tennessee Commerce Bancorp
+
+TNDM","Neutral Tandem
+
+TNGN","Tengion
+
+TNH","Terra Nitrogen Company
+
+TOBC","Tower Bancorp Inc
+
+TOF","Tofutti Brands Inc.
+
+TOFC","Tower Financial Corporation
+
+TOL","Toll Brothers Inc.
+
+TOWN","Towne Bank
+
+TPC","Tutor Perini Corporation
+
+TPGI","Thomas Properties Group
+
+TPL","Texas Pacific Land Trust
+
+TPLM","Triangle Petroleum Corporation
+
+TPX","Tempur-pedic International Inc
+
+TQNT","TriQuint Semiconductor
+
+TQQQ","ProShares UltraPro QQQ
+
+TR","Tootsie Roll Industries
+
+TRAK","DealerTrack Holdings
+
+TRBR","Trailer Bridge
+
+TRC","Tejon Ranch Co
+
+TRCR","Transcend Services
+
+TREE","Tree.com
+
+TREX","Trex Company
+
+TRF","Templeton Russia Fund
+
+TRGT","Targacept
+
+TRH","Transatlantic Holdings
+
+TRID","Trident Microsystems
+
+TRK","Speedway Motorsports
+
+TRLG","True Religion Apparel
+
+TRMB","Trimble Navigation Limited
+
+TRMK","Trustmark Corporation
+
+TRMS","Trimeris
+
+TRN","Trinity Industries
+
+TRNS","Transcat
+
+TROW","T. Rowe Price Group
+
+TRP","Transcananda Pipelines
+
+TRR","TRC Companies
+
+TRS","TriMas Corporation
+
+TRST","TrustCo Bank Corp NY
+
+TRT","Trio-Tech International
+
+TRU","Torch Energy Royalty Trust
+
+TRUE","Centrue Financial Corporation
+
+TRV","The Travelers Companies Inc.
+
+TRW","TRW Automotive Holdings Corporation
+
+TRX","Tanzanian Royalty Exploration Corporation
+
+TSBK","Timberland Bancorp
+
+TSCO","Tractor Supply Company
+
+TSH","Teche Holding Company
+
+TSI","TCW Strategic Income Fund
+
+TSN","Tyson Foods
+
+TSO","Tesoro Petroleum Co.
+
+TSON","TranS1 Inc.
+
+TSPT","Transcept Pharmaceuticals
+
+TSRA","Tessera Technologies
+
+TSRI","TSR
+
+TSRX","Trius Therapeutics
+
+TSS","Total System Services
+
+TST","TheStreet
+
+TSTF","TeamStaff
+
+TSYS","TeleCommunication Systems
+
+TTC","Toro Company (The)
+
+TTEC","TeleTech Holdings
+
+TTEK","Tetra Tech
+
+TTF","Thai Fund
+
+TTGT","TechTarget
+
+TTHI","Transition Therapeutics
+
+TTI","Tetra Technologies
+
+TTMI","TTM Technologies
+
+TTO","Tortoise Capital Resources Corporation
+
+TTTM","T3 Motion Inc
+
+TTWO","Take-Two Interactive Software
+
+TU","Telus Corporation
+
+TUC","Mac-Gray Corporation
+
+TUES","Tuesday Morning Corp.
+
+TUP","Tupperware Corporation
+
+TV","Grupo Televisa S.A.
+
+TVC","Tennessee Valley Authority
+
+TVE","Tennessee Valley Authority
+
+TVL","LIN TV Corp
+
+TW","Towers Watson & Co
+
+TWC","Time Warner Cable Inc.
+
+TWER","Towerstream Corporation
+
+TWGP","Tower Group
+
+TWI","Titan International
+
+TWIN","Twin Disc
+
+TWMC","Trans World Entertainment Corp.
+
+TWN","Taiwan Fund
+
+TWO","Two Harbors Investments Corp
+
+TWTC","tw telecom inc.
+
+TWX","Time Warner Inc.
+
+TXCC","TranSwitch Corporation
+
+TXI","Texas Industries
+
+TXN","Texas Instruments
+
+TXRH","Texas Roadhouse
+
+TXT","Textron Inc.
+
+TY","Tri Continental Corporation
+
+TYC","Tyco International
+
+TYG","Tortoise Energy Infrastructure Corporation
+
+TYL","Tyler Technologies
+
+TYPE","Monotype Imaging Holdings Inc.
+
+TZF","Bear Stearns Depositor
+
+TZK","Trust Ctfs 2002 1 Bear Stearns Depositor Inc Acting as Deposit
+
+TZOO","Travelzoo Inc
+
+TZYM","Tranzyme
+
+UA","Under Armour
+
+UACL","Universal Truckload Services
+
+UAL","United Continental Holdings
+
+UAM","Universal American Corp.
+
+UBA","Urstadt Biddle Properties Inc.
+
+UBCP","United Bancorp
+
+UBFO","United Security Bancshares
+
+UBNK","United Financial Bancorp
+
+UBOH","United Bancshares
+
+UBP","Urstadt Biddle Properties Inc.
+
+UBPSU","Universal Business Payment Solutions Acquisition Corporation
+
+UBSH","Union First Market Bankshares Corporation
+
+UBSI","United Bankshares
+
+UCBA","United Community Bancorp
+
+UCBI","United Community Banks
+
+UCFC","United Community Financial Corp.
+
+UCTT","Ultra Clean Holdings
+
+UDR","United Dominion Realty Trust
+
+UDRL","Union Drilling
+
+UEC","Uranium Energy Corp.
+
+UEIC","Universal Electronics Inc.
+
+UFCS","United Fire & Casualty Company
+
+UFI","Unifi
+
+UFPI","Universal Forest Products
+
+UFPT","UFP Technologies
+
+UFS","Domtar Corporation
+
+UG","United-Guardian
+
+UGI","UGI Corporation
+
+UHAL","Amerco
+
+UHS","Universal Health Services
+
+UHT","Universal Health Realty Income Trust
+
+UIL","UIL Holdings Corporation
+
+UIS","Unisys Corporation
+
+ULBI","Ultralife Corporation
+
+ULGX","Urologix
+
+ULTA","Ulta Salon
+
+ULTI","The Ultimate Software Group
+
+ULU","Uluru Inc.
+
+UMBF","UMB Financial Corporation
+
+UMH","UMH Properties
+
+UMPQ","Umpqua Holdings Corporation
+
+UNAM","Unico American Corporation
+
+UNB","Union Bankshares
+
+UNF","Unifirst Corporation
+
+UNFI","United Natural Foods
+
+UNFY","Unify Corporation
+
+UNH","United Health Group Inc.
+
+UNIS","Unilife Corporation
+
+UNM","Unum Group
+
+UNP","Union Pacific
+
+UNS","UniSource Energy Corporation
+
+UNT","Unit Corporation
+
+UNTD","United Online
+
+UNTK","UniTek Global Services
+
+UNTY","Unity Bancorp
+
+UPI","Uroplasty
+
+UPL","Ultra Petroleum Corp.
+
+UPS","United Parcel Service
+
+UQM","UQM TECHNOLOGIES INC
+
+URBN","Urban Outfitters, Inc.
+
+URI","United Rentals
+
+URRE","Uranium Resources
+
+URS","URS Corporation
+
+URZ","Uranerz Energy Corporation
+
+USA","Liberty All-Star Equity Fund
+
+USAK","USA Truck
+
+USAP","Universal Stainless & Alloy Products
+
+USAT","USA Technologies
+
+USATP","USA Technologies
+
+USB","U.S. Bancorp
+
+USBI","United Security Bancshares
+
+USCR","U S Concrete
+
+USEG","U.S. Energy Corp.
+
+USG","USG Corporation
+
+USHS","U.S. Home Systems
+
+USLM","United States Lime & Minerals
+
+USM","United States Cellular Corporation
+
+USMO","USA Mobility
+
+USNA","USANA Health Sciences
+
+USPH","U.S. Physical Therapy
+
+USTR","United Stationers Inc.
+
+USU","USEC Inc.
+
+UTEK","Ultratech
+
+UTG","Reaves Utility Income Fund
+
+UTHR","United Therapeutics Corporation
+
+UTI","Universal Technical Institute Inc
+
+UTIW","UTi Worldwide Inc.
+
+UTL","UNITIL Corporation
+
+UTMD","Utah Medical Products
+
+UTR","Unitrin
+
+UTX","United Technologies
+
+UUU","Universal Security Instruments
+
+UVE","UNIVERSAL INSURANCE HOLDINGS INC
+
+UVSP","Univest Corporation of Pennsylvania
+
+UVV","Universal Corporation
+
+UWN","Nevada Gold & Casinos
+
+UXG","U.S. Gold Corporation
+
+UZA","United States Cellular Corporation
+
+V","Visa Inc.
+
+VAL","Valspar Corporation (The)
+
+VALU","Value Line
+
+VAR","Varian Medical Systems
+
+VASC","Vascular Solutions
+
+VAZ","Delaware Investments Arizona Municipal Income Fund
+
+VBF","Invesco Van Kampen Bond Fund
+
+VBFC","Village Bank and Trust Financial Corp.
+
+VC","Visteon Corporation
+
+VCBI","Virginia Commerce Bancorp
+
+VCF","Delaware Investments Colorado Municipal Income Fund
+
+VCI","Valassis Communications
+
+VCIT","Vanguard Intermediate-Term Corporate Bond ETF
+
+VCLK","ValueClick
+
+VCLT","Vanguard Long-Term Corporate Bond ETF
+
+VCSH","Vanguard Short-Term Corporate Bond ETF
+
+VCV","Invesco Van Kampen California Value Municipal Income Trust
+
+VDSI","VASCO Data Security International
+
+VECO","Veeco Instruments Inc.
+
+VFC","V.F. Corp.
+
+VFL","Delaware Investments Florida Insured Municipal Income Fund
+
+VGIT","Vanguard Intermediate -Term Government Bond ETF
+
+VGLT","Vanguard Long-Term Government Bond ETF
+
+VGM","Invesco Van Kampen Trust for Investment Grade Municipals
+
+VGR","Vector Group Ltd.
+
+VGSH","Vanguard Short Term Government Bond ETF
+
+VGZ","Vista Gold Corporation
+
+VHC","VirnetX Holding Corp
+
+VHI","Valhi
+
+VIA","Viacom Inc.
+
+VIAS","Viasystems Group
+
+VICL","Vical Incorporated
+
+VICR","Vicor Corporation
+
+VIDE","Video Display Corporation
+
+VIFL","Food Technology Service
+
+VII","Vicon Industries
+
+VIM","Invesco Van Kampen Trust for Insured Municipals
+
+VIRC","Virco Manufacturing Corporation
+
+VIST","VIST Financial Corp
+
+VITA","Orthovita
+
+VITC","Vitacost.com
+
+VIVO","Meridian Bioscience Inc.
+
+VKI","Invesco Van Kampen Advantage Municipal Income Trust II
+
+VKL","Invesco Van Kampen Select Sector Municipal Trust
+
+VKQ","Invesco Van Kampen Municipal Trust
+
+VLCM","Volcom
+
+VLGEA","Village Super Market
+
+VLNC","Valence Technology
+
+VLO","Valero Energy
+
+VLT","Invesco Van Kampen High Income Corporate Bond Fund
+
+VLTR","Volterra Semiconductor Corporation
+
+VLY","Valley National Bancorp
+
+VMBS","Vanguard Mortgage-Backed Securities ETF
+
+VMC","Vulcan Materials
+
+VMED","Virgin Media Inc.
+
+VMI","Valmont Industries
+
+VMM","Delaware Investments Minnesota Municipal Income Fund II
+
+VMO","Invesco Van Kampen Municipal Opportunity Trust
+
+VMV","Invesco Van Kampen Massachusetts Value Municipal Income Trust
+
+VNDA","Vanda Pharmaceuticals Inc.
+
+VNO","Vornado Realty Trust
+
+VNQI","Vanguard International Equity Index Funds Vanguard Global ex-U
+
+VNV","Viacom Inc.
+
+VOD","Vodafone Group Plc
+
+VOG","Voyager Oil & Gas
+
+VOLC","Volcano Corporation
+
+VONE","Vanguard Scottsdale Funds Vanguard Russell 1000 ETF
+
+VONG","Vanguard Scottsdale Funds Vanguard Russell 1000 Growth ETF
+
+VONV","Vanguard Scottsdale Funds Vanguard Russell 1000 Value ETF
+
+VOQ","Invesco Van Kampen Ohio Quality Municipal Trust
+
+VOXX","Audiovox Corporation
+
+VPF","Valpey Fisher Corporation
+
+VPFG","ViewPoint Financial Group
+
+VPHM","ViroPharma Incorporated
+
+VPV","Invesco Van Kampen Pennsylvania Value Municipal Income Trust
+
+VRA","Vera Bradley
+
+VRML","Vermillion
+
+VRNG","Vringo
+
+VRNM","Verenium Corporation
+
+VRNT","Verint Systems Inc.
+
+VRSK","Verisk Analytics
+
+VRSN","VeriSign, Inc.
+
+VRTA","Vestin Realty Mortgage I
+
+VRTB","Vestin Realty Mortgage II
+
+VRTS","Virtus Investment Partners
+
+VRTU","Virtusa Corporation
+
+VRTX","Vertex Pharmaceuticals Incorporated
+
+VRUS","Pharmasset
+
+VRX","Valeant Pharmaceuticals International
+
+VSAT","ViaSat
+
+VSBN","VSB Bancorp
+
+VSCI","Vision-Sciences
+
+VSCP","VirtualScopics
+
+VSEA","Varian Semiconductor Equipment Associates
+
+VSEC","VSE Corporation
+
+VSH","Vishay Intertechnology
+
+VSNT","Versant Corporation
+
+VSR","Versar
+
+VTAL","Vital Images
+
+VTG","Vantage Drilling Company
+
+VTHR","Vanguard Scottsdale Funds Vanguard Russell 3000 ETF
+
+VTJ","Invesco Van Kampen Trust for Investment Grade N J Municipals
+
+VTN","Invesco Van Kampen Trt  for Investment Grade New York Municipa
+
+VTNC","Vitran Corporation
+
+VTR","Ventas Inc
+
+VTRO","Vertro
+
+VTSS","Vitesse Semiconductor Corporation
+
+VTUS","Ventrus Biosciences
+
+VTWG","Vanguard Scottsdale Funds Vanguard Russell 2000 Growth ETF
+
+VTWO","Vanguard Scottsdale Funds Vanguard Russell 2000 ETF
+
+VTWV","Vanguard Scottsdale Funds Vanguard Russell 2000 Value ETF
+
+VVC","Vectren Corporation
+
+VVI","Viad Corp
+
+VVR","Invesco Van Kampen Senior Income Trust
+
+VVTV","ValueVision Media
+
+VVUS","Vivus
+
+VXUS","Vanguard STAR Funds Vanguard Total International Stock ETF
+
+VYFC","Valley Financial Corporation
+
+VZ","Verizon Communications
+
+WAB","Westinghouse Air Brake Technologies Corporation
+
+WABC","Westamerica Bancorporation
+
+WAC","Walter Investment Management Corp.
+
+WAG","Walgreen Co.
+
+WASH","Washington Trust Bancorp
+
+WAT","Waters Corporation
+
+WAVX","Wave Systems Corp.
+
+WAYN","Wayne Savings Bancshares Inc.
+
+WBCO","Washington Banking Company
+
+WBKC","Wolverine Bancorp
+
+WBMD","WebMD Health Corp
+
+WBNK","Waccamaw Bankshares Inc
+
+WBS","Webster Financial Corporation
+
+WBSN","Websense
+
+WCAA","WCA Waste Corporation
+
+WCBOD","West Coast Bancorp
+
+WCC","WESCO International
+
+WCG","WellCare Helath Plans
+
+WCN","Waste Connections
+
+WCRX","Warner Chilcott plc
+
+WDC","Western Digital
+
+WDFC","WD-40 Company
+
+WDR","Waddell & Reed Financial
+
+WEA","Western Asset Bond Fund
+
+WEBM","WebMediaBrands Inc
+
+WEC","Wisconsin Energy Corporation
+
+WEN","Wendy's/Arby's Group
+
+WERN","Werner Enterprises
+
+WEST","Westinghouse Solar
+
+WEX","Winland Electronics
+
+WEYS","Weyco Group
+
+WFC","Wells Fargo
+
+WFD","Westfield Financial
+
+WFM","Whole Foods Market, Inc.
+
+WFR","MEMC Electronic Materials
+
+WFSL","Washington Federal
+
+WGA","Wells-Gardner Electronics Corporation
+
+WGL","WGL Holdings Inc
+
+WGO","Winnebago Industries
+
+WHG","Westwood Holdings Group Inc
+
+WHR","Whirlpool Corp.
+
+WHRT","World Heart Corporation
+
+WIA","Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd
+
+WIBC","Wilshire Bancorp
+
+WIN","Windstream Corporation
+
+WINA","Winmark Corporation
+
+WINN","Winn-Dixie Stores
+
+WIRE","Encore Wire Corporation
+
+WIW","Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2
+
+WLB","Westmoreland Coal Company
+
+WLBC","Western Liberty Bancorp
+
+WLBPZ","Westmoreland Coal Company
+
+WLDN","Willdan Group
+
+WLFC","Willis Lease Finance Corporation
+
+WLFCP","Willis Lease Finance Corporation
+
+WLL","Whiting Petroleum Corporation
+
+WLP","WellPoint Inc.
+
+WLT","Walter Energy
+
+WM","Waste Management Inc.
+
+WMAR","West Marine
+
+WMB","Williams Cos.
+
+WMCO","Williams Controls
+
+WMGI","Wright Medical Group
+
+WMK","Weis Markets
+
+WMS","WMS Industries Inc.
+
+WMT","Wal-Mart Stores
+
+WNC","Wabash National Corporation
+
+WNI","Schiff Nutrition International
+
+WOLF","Great Wolf Resorts
+
+WOOD","iShares S&P Global Timber &Forestry Index Fund
+
+WOOF","VCA Antech
+
+WOR","Worthington Industries
+
+WPC","W.P. Carey & Co. LLC
+
+WPCS","WPCS International Incorporated
+
+WPI","Watson Pharmaceuticals
+
+WPO","Washington Post Co B
+
+WPP","Wausau Paper Corp.
+
+WR","Westar Energy
+
+WRB","W.R. Berkley Corporation
+
+WRC","Warnaco Group Inc (The)
+
+WRD","Weingarten Realty Investors
+
+WRE","Washington Real Estate Investment Trust
+
+WRES","Warren Resources
+
+WRI","Weingarten Realty Investors
+
+WRLD","World Acceptance Corporation
+
+WRLS","Telular Corporation
+
+WRS","Westar Energy
+
+WSB","WSB Holdings
+
+WSBC","WesBanco
+
+WSBF","Waterstone Financial
+
+WSC","Wesco Financial Corporation
+
+WSCI","WSI Industries Inc.
+
+WSFS","WSFS Financial Corporation
+
+WSM","Williams-Sonoma
+
+WSO","Watsco
+
+WST","West Pharmaceutical Services
+
+WSTG","Wayside Technology Group
+
+WSTL","Westell Technologies
+
+WTBA","West Bancorporation
+
+WTFC","Wintrust Financial Corporation
+
+WTM","White Mountains Insurance Group
+
+WTR","Aqua America
+
+WTS","Watts Water Technologies
+
+WTSLA","The Wet Seal
+
+WTT","Wireless Telecom Group
+
+WTW","Weight Watchers International Inc
+
+WU","Western Union Co
+
+WVFC","WVS Financial Corp.
+
+WVVI","Willamette Valley Vineyards
+
+WWAY","Westway Group
+
+WWD","Woodward
+
+WWE","World Wrestling Entertainment
+
+WWON","Westwood One
+
+WWVY","Warwick Valley Telephone Company
+
+WWW","Wolverine World Wide
+
+WWWW","Web.com Group
+
+WY","Weyerhaeuser Corp.
+
+WYN","Wyndham Worldwide
+
+WYNN","Wynn Resorts, Limited
+
+WYY","WidePoint Corporation
+
+WZE","WIZZARD SOFTWARE CORPORATION
+
+X","United States Steel Corp.
+
+XAA","American Municipal Income Portfolio
+
+XATA","XATA Corporation
+
+XCJ","Xcel Energy Inc.
+
+XEC","Cimarex Energy Co
+
+XEL","Xcel Energy Inc
+
+XFD","Lehman ABS Corporation
+
+XFH","Lehman ABS Corporation
+
+XFN","Xfone
+
+XFP","Lehman ABS Corporation
+
+XFR","Lehman ABS Corporation
+
+XIDE","Exide Technologies
+
+XKE","Lehman ABS Corporation
+
+XKK","Lehman ABS Corporation
+
+XKN","Lehman ABS Corporation
+
+XKO","Lehman ABS Corporation
+
+XL","XL Capital
+
+XLNX","Xilinx, Inc.
+
+XNPT","XenoPort
+
+XOM","Exxon Mobil Corp.
+
+XOMA","XOMA Ltd.
+
+XPL","Solitario Exploration & Royalty Corp
+
+XPO","Express-1 Expedited Solutions
+
+XRAY","DENTSPLY International Inc.
+
+XRIT","X-Rite
+
+XRX","Xerox Corp.
+
+XTEX","Crosstex Energy
+
+XTXI","Crosstex Energy
+
+XVG","Lehman ABS Corporation
+
+XWES","World Energy Solutions Inc (DE)
+
+XXIA","Ixia
+
+Y","Alleghany Corporation
+
+YAVY","Yadkin Valley Financial Corporation
+
+YDNT","Young Innovations
+
+YHOO","Yahoo! Inc.
+
+YMI","YM BioSciences
+
+YORW","The York Water Company
+
+YRCW","YRC Worldwide
+
+YUM","Yum! Brands Inc
+
+ZAGG","ZAGG Incorporated
+
+ZANE","Zanett Inc.
+
+ZBB","ZBB Energy Corporation
+
+ZBRA","Zebra Technologies Corporation
+
+ZEUS","Olympic Steel
+
+ZF","Zweig Fund
+
+ZGNX","Zogenix
+
+ZHNE","Zhone Technologies
+
+ZIGO","Zygo Corporation
+
+ZINC","Horsehead Holding Corp.
+
+ZION","Zions Bancorp
+
+ZIOP","ZIOPHARM Oncology Inc
+
+ZIP","Zipcar
+
+ZIPR","ZipRealty
+
+ZIXI","Zix Corporation
+
+ZLC","Zale Corporation
+
+ZLCS","Zalicus Inc.
+
+ZMH","Zimmer Holdings
+
+ZN","Zion Oil & Gas Inc
+
+ZOLL","Zoll Medical Corporation
+
+ZOLT","Zoltek Companies
+
+ZOOG","Zoo Entertainment
+
+ZQK","Quiksilver
+
+ZRAN","Zoran Corporation
+
+ZTR","Zweig Total Return Fund
+
+ZUMZ","Zumiez Inc.
